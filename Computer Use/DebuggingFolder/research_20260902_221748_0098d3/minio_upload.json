@@ -1,0 +1,55 @@
+{
+  "stored": 2,
+  "skipped": 0,
+  "failed": 0,
+  "verified": 2,
+  "objects": [
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8554701.json",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8554701/kripto-hingga-saham-jadi-sumber-duit-trump-nilainya-fantastis?page=3",
+      "etag": "44fef0f93b1b5c50b8ac9e8c8f14d76d",
+      "content_length": 6046
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8607398.json",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8607398/indosat-nokia-nvidia-bangun-infrastruktur-ai-terbesar-di-asia-tenggara",
+      "etag": "278af0af537d56d6654a8b21af6ab326",
+      "content_length": 7112
+    }
+  ],
+  "errors": [],
+  "bucket": "news",
+  "artifact": {
+    "artifact": "articles.json",
+    "type": "news_intelligence",
+    "topic": "Nvidia",
+    "query": "NVIDIA",
+    "job_id": "research_20260902_221748_0098d3",
+    "source": "Computer Use",
+    "storage": "minio",
+    "bucket": "news",
+    "object_key": "intelligence/nvidia/research_20260902_221748_0098d3/metadata.json",
+    "article_count": 2,
+    "status": "completed",
+    "created_at": "2026-09-02T22:18:40.730699+00:00",
+    "objects": [
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8554701.json",
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8554701/kripto-hingga-saham-jadi-sumber-duit-trump-nilainya-fantastis?page=3",
+        "etag": "44fef0f93b1b5c50b8ac9e8c8f14d76d",
+        "content_length": 6046
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8607398.json",
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8607398/indosat-nokia-nvidia-bangun-infrastruktur-ai-terbesar-di-asia-tenggara",
+        "etag": "278af0af537d56d6654a8b21af6ab326",
+        "content_length": 7112
+      }
+    ]
+  },
+  "status": "verified"
+}

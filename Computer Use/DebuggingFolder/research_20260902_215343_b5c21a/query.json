@@ -1,0 +1,9 @@
+{
+  "research_session_id": "research_20260902_215343_b5c21a",
+  "request_id": "nexus-mtkmv1zg-7a47ddb3",
+  "query": "perak",
+  "created_at": "2026-09-02T21:53:43.769033+00:00",
+  "intent": "general_question",
+  "requires_external_research": false,
+  "requires_forecast": false
+}

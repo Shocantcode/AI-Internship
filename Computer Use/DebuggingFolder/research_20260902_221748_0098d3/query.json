@@ -1,0 +1,9 @@
+{
+  "research_session_id": "research_20260902_221748_0098d3",
+  "request_id": "nexus-mtknq0d8-08231833",
+  "query": "NVIDIA",
+  "created_at": "2026-09-02T22:17:48.619285+00:00",
+  "intent": "general_question",
+  "requires_external_research": false,
+  "requires_forecast": false
+}

@@ -1,0 +1,9 @@
+{
+  "research_session_id": "research_20260902_220309_2232bc",
+  "request_id": "nexus-mtkn765q-83ee0233",
+  "query": "IHSG tertinggi sepanjang masa rekor terbaru",
+  "created_at": "2026-09-02T22:03:09.025637+00:00",
+  "intent": "current_market_analysis",
+  "requires_external_research": true,
+  "requires_forecast": false
+}

@@ -1,0 +1,307 @@
+
+===== PAGE 1 =====
+
+ Sectoral Report
+  May 18, 2026
+
+
+ Bank Sector                                  OVERWEIGHT
+ Macro Factors Deepens Valuation Discount                   Bank Sector Universe
+                                                                                                                                               Price      Target             Upside                                                                                                                                Ticker                                Call    •  Total bank loans reached Rp 8.7 trillion (+9.15% YoY), increasing from Rp 7.9 trillion in 2M25                       (Rp)     Price (Rp)                (%)
+    and remaining broadly in line with Bank Indonesia’s 2026 loan growth target of 8–10%.                                                                               BBCA      6,100    8,900   BUY     45.9
+    •  The Indonesian Ministry of Finance’s Rp 276 trillion liquidity injection into the banking                                                                                    BMRI       4,200    6,150   BUY     46.4
+      sector, particularly state-owned banks, has helped ease the deposit rate competition.
+                                                                                               BBRI       3,120    4,100   BUY     31.4
+    •  Indonesia’s banking sector has gradually entered a recovery phase, although key challenges
+                                                                                         BBNI       3,870    4,800   BUY     24.0     remain driven by both domestic and global macroeconomic uncertainty.
+                                                                                                    BRIS       1,830    3,100   BUY     69.3    • We assign OVERWEIGHT rating on Indonesia’s banking sector, supported by gradually
+     improving fundamentals. We identify BMRI as our top pick, given their compelling valuations    BBTN      1,340    1,550   BUY     15.7
+      at 6.7x P/E and attractive dividend yields of approximately 11%.
+                                                                                                                       Source: Bloomberg, Ajaib Research
+  Healthy Loan Growth and Lower Funding Costs Support Banking Outlook
+   Indonesia’s banking sector remains fundamentally resilient despite ongoing domestic and global    Bank Sector Valuation (TTM)
+  macroeconomic pressures. Based on the latest 2M26 industry data, total banking loans reached Rp                                  EPS Gth.  Div. Yield                                                                                                                                Ticker    PE (x)    PBV (x)
+   8.7 trillion (+9.15% YoY), increasing from Rp 7.9 trillion in 2M25 and remaining broadly in line with                                              (%)        (%)
+  Bank Indonesia’s 2026 loan growth target of 8–10%. Customer deposits also recorded healthy    BBCA       12.9       2.9       0.9      5.5
+   growth, rising to Rp 10.1  trillion (+11.6% YoY) from Rp 9.0  trillion in the prior-year period,
+                                                                                    BMRI         6.7       1.3       3.8     11.4   indicating sufficient liquidity to support further credit expansion. On the interest rate side, lending
+   rates have started to decline in line with Bank Indonesia’s monetary easing cycle, with KBMI 4 loan     BBRI         8.0       1.4       3.3     11.1
+   rates decreasing to 8.3% in 2M26 from 8.9% in 2M25, while KBMI 3 rates also declined to 8.3%
+                                                                                         BBNI         7.1       0.9       1.4      9.0
+  from 8.6% over the same period. This trend should help ease financing costs across the economy
+  and support broader economic activity.                                                             BRIS        10.7       1.7       4.2      1.8
+                                                                               BBTN        5.1       0.5       5.8      4.0
+   Liquidity Injection Helps Normalize Deposit Competition
+  The Indonesian Ministry of Finance’s Rp 276 trillion liquidity injection into the banking sector,      Source: Bloomberg, Ajaib Research
+   particularly state-owned banks, has helped ease the deposit rate competition that intensified                                                                             1Y Performance Finance Sector vs JCI
+   throughout 2024. During that period, tightening system liquidity pushed banks to aggressively
+   secure third-party funds by offering higher deposit and current account rates. This pressure has      30%
+   started to normalize following government support, as reflected by the recent decline in industry      25%
+   deposit rates. However, banking sector margins have yet to fully recover, with KBMI 4 banks      20%
+   reporting NIM of 4.7% in 2M26, down from the 2023–2025 average level of above 5.0%. The      15%
+  weaker margin profile was mainly driven by lending rates declining faster than funding costs,      10%
+   suggesting that normalization in third-party fund repricing still requires additional time before NIM       5%
+  can sustainably recover above 5.0%. Nevertheless, industry liquidity indicators have improved, with                                                                                      0%
+  KBMI 4 Loan-to-Deposit Ratio (LDR) declining from 90.0% in 2024 to 85.1% in 2M26, indicating a                                                                                                     -5%
+   healthier funding environment and lower liquidity pressure across the sector.
+                                                                                                    -10%
+
+   Global Uncertainty and Capital Outflows Weigh on Banking Recovery                                                                                                                                                                                                                                                                                                                                                       May-25   Jun-25   Jul-25   Aug-25   Sep-25   Oct-25   Nov-25   Dec-25   Jan-26   Feb-26   Mar-26   Apr-26   May-26  We believe Indonesia’s banking sector has gradually entered a recovery phase, although key
+   challenges remain driven by both domestic and global macroeconomic uncertainty. Escalating                             JCI       Finance
+   geopolitical tensions have pushed WTI oil prices above US$ 100 per barrel, increasing concerns
+                                                                                                                       Source: Bloomberg, Ajaib Research   over slower global growth and rising energy crisis risks. Higher oil prices also raise fiscal pressure
+   for Indonesia, with the state budget deficit now projected to exceed 3.0% of GDP, above the                                                                                 Top 10 Constituent IDX Finance
+  government’s historical comfort level. At the same time, the Indonesian Rupiah has weakened
+   significantly, with USD/IDR reaching Rp 17,500, adding further pressure on capital flows and             Ticker    MC Index (IDR tn)  Index Weight (%)
+   investor sentiment. These developments have prompted several global rating institutions to revise
+                                                                                 CASA                31.6             8.8   Indonesia’s outlook lower, contributing to substantial foreign outflows from domestic financial
+   markets. The banking sector has been among the most impacted, with BBCA leading regular    SMMA               31.2             8.7
+  market net foreign outflows YTD at Rp 30.0 trillion, followed by BMRI at Rp 9.6 trillion, BBRI at Rp    BMRI                30.6             8.5
+   7.4 trillion, and BBNI at Rp 2.3 trillion, while total IHSG regular market outflows reached Rp 50.6
+                                                                               BBCA                28.4             7.9    trillion YTD. Looking ahead, investors are likely to remain cautious pending further clarity on
+  macroeconomic developments and the upcoming MSCI announcement, which could materially     BBNI                 28.2             7.8
+   influence Indonesia’s capital flow direction and broader market positioning.                          BBRI                 28.1             7.8
+                                                                       MEGA                21.8             6.0
+  Compelling Risk Reward Supports Positive Banking Outlook
+  We assign OVERWEIGHT rating on Indonesia’s banking sector, supported by gradually improving     APIC                 14.0             3.9
+  fundamentals as reflected in sector financial performance over the past six months, alongside     BNLI                 10.7             3.0
+   improving  liquidity  conditions and  healthier NPL  trends. While both domestic and  global                                                                              DNET                10.1             2.8
+  economies remain exposed to geopolitical uncertainty, rising inflation  risks, slowing global
+   growth, and continued foreign outflows from banking stocks, we believe current valuations,      Total                234.7           65.3
+   particularly among KBMI 4 banks, have largely priced in these downside risks. At current levels,                                                                                                                       Source: IDX, Ajaib Research
+  major KBMI 4 banks offer attractive 12-month return potential of approximately 20–40%, while
+   relative valuations across the sector have compressed to below -2 standard deviations on both P/E
+  and P/BV metrics for most large-cap banks. We identify BMRI as our top pick, given their       Analyst
+   compelling valuations at 6.7x P/E and attractive dividend yields of approximately 11%.
+                                                                                                                   Alvin Timothy Murthi
+                                                                                                                          alvin.murthi@ajaib.co.id
+
+PT Ajaib Sekuritas Asia | www.ajaib.co.id                                                                    1
+                                                                                                                            This report is intended exclusively for Ajaib Clients. Unauthorized sharing or distribution is strictly forbidden
+
+===== PAGE 2 =====
+
+  SECTORAL REPORT | May 18, 2026
+
+
+
+    Figure 1. Indonesia’s M2 Money Supply                                          Figure 2. Bank Indonesia’s Major Rates
+
+     20,000                                                            15.00%                                             17,311   18,000
+                             9.60%                                                                                                                      16,796     18,000                                                    8.70%                                         16,657                                                            10.00%     13.00%                                                      17,000                                                                                              16,178     16,000                                            6.20%
+     14,000           4.76%                                            11.00%   15,383                                            16,000
+             3.50%                                          5.00%
+     12,000                                                              9.00%                                                      15,000                               10,135                   10,088                                                                                         7.30%                        9,247                    9,281                                6.90%     10,000    8,827                                                                                                                6.56%                                                                        7.00%  6.00%   6.00%                            6.22%   14,000                                                            0.00%      8,000                                                                                       4.92%        5.75%                                                                                                                      4.75%                                                                        5.00%                                                      13,000      6,000                                                                                    4.75%
+      4,000                                                     -5.00%      3.00%                                                      12,000
+      2,000
+                                                                        1.00%                                                      11,000
+              -                                                    -10.00%
+             2023   2024   2025         2M25  2M26               -1.00%   2023   2024   2025         4M25  4M26    10,000
+
+              M2 Money (IDR tn)       Growth (%) (RHS)                              BI Interest Rate (%)     12M SBRI Rate (%)     USD/IDR (Rp) (RHS)
+
+    Source: OJK, Bank Indonesia, Ajaib Research                                           Source: OJK, Bank Indonesia, Ajaib Research
+
+   Table 1. Banking Sector Loan and Deposit (IDR tn)
+
+    Loan                                2023         2024         2025      YoY Growth (%)     2M25       2M26      YoY Growth (%)
+
+    Total                                    7,187.00       7,942.95       8,693.97           9.46          7,937.05       8,663.01          9.15
+
+   KBMI 1                                 754.65        810.76        757.56             (6.56)          782.80        749.11             (4.30)
+
+   KBMI 2                                 864.42        935.04        862.68             (7.74)          849.26        853.32           0.48
+
+   KBMI 3                                  1,860.64       2,013.68       2,390.43          18.71          2,136.30       2,365.91          10.75
+
+   KBMI 4                                  3,707.28       4,183.47       4,683.30          11.95          4,168.70       4,694.67          12.62
+
+    Third-Party Fund                      2023         2024         2025      YoY Growth (%)     2M25       2M26      YoY Growth (%)
+
+    Total                                    8,457.93       8,835.76      10,057.54         13.83          9,050.45      10,102.27         11.62
+
+   KBMI 1                                 918.31        974.56        930.50             (4.52)          930.52        933.65           0.34
+
+   KBMI 2                                 989.28        1,048.84        992.97             (5.33)          999.30        994.15             (0.51)
+
+   KBMI 3                                  2,070.64       2,223.10       2,757.94          24.06          2,344.60       2,700.76          15.19
+
+   KBMI 4                                  4,479.70       4,589.25       5,376.13          17.15          4,776.03       5,473.70          14.61
+
+    Source: OJK, Ajaib Research
+
+   Table 2. Banking Sector Loan Interest Rate
+
+    Loan Rate IDR (%)                      2023         2024         2025      YoY Growth (%)     2M25       2M26      YoY Growth (%)
+
+   KBMI 1                                  11.34          11.31          10.26              (9.28)           11.25          10.30              (8.44)
+
+   KBMI 2                                  10.45          10.56          11.58             9.66           10.65          11.78           10.61
+
+   KBMI 3                                    8.49           8.44           8.34              (1.18)            8.56           8.32              (2.80)
+
+   KBMI 4                                    8.95           8.85           8.36              (5.54)            8.88           8.29               (6.64)
+
+    Loan Rate Forex (%)                    2023         2024         2025      YoY Growth (%)     2M25       2M26      YoY Growth (%)
+
+   KBMI 1                                    6.57           6.01           5.34             (11.15)           5.92           5.23             (11.66)
+
+   KBMI 2                                    6.66           5.80           5.12             (11.72)           5.74           5.06             (11.85)
+
+   KBMI 3                                    6.60           5.95           5.31             (10.76)           5.88           5.22             (11.22)
+
+   KBMI 4                                    6.55           6.21           5.78               (6.92)            6.11           5.70               (6.71)
+
+    Source: OJK, Ajaib Research
+
+   Table 3. Banking Sector Third-Party Fund Interest Rate
+
+    Savings Account Rate (%)                 2023         2024         2025      YoY Growth (%)     2M25       2M26      YoY Growth (%)
+   KBMI 1                                    1.61           1.50           1.30             (13.33)           1.52           1.34             (11.84)
+   KBMI 2                                    1.23           1.30           1.23              (5.38)            1.18           1.28            8.47
+   KBMI 3                                    1.03           0.91           1.08            18.68            1.00           1.04            4.00
+   KBMI 4                                    0.40           0.44           0.47             6.82            0.45           0.44              (2.22)
+    Current Account Rate (%)                2023         2024         2025      YoY Growth (%)     2M25       2M26      YoY Growth (%)
+   KBMI 1                                    1.88           2.13           1.94              (8.92)            2.01           1.86               (7.46)
+   KBMI 2                                    1.94           1.96           1.76             (10.20)           1.93           1.82              (5.70)
+   KBMI 3                                    2.39           2.73           2.59              (5.13)            2.48           2.58            4.03
+   KBMI 4                                    2.05           2.42           1.97             (18.60)           2.41           1.98             (17.84)
+   Time Deposit Rate (%)                   2023         2024         2025      YoY Growth (%)     2M25       2M26      YoY Growth (%)
+   KBMI 1                                    5.26           5.88           5.22             (11.22)           5.83           4.97             (14.75)
+   KBMI 2                                    5.56           6.05           5.12             (15.37)           5.91           4.86             (17.77)
+   KBMI 3                                    4.88           5.44           4.76             (12.50)           5.42           4.66             (14.02)
+   KBMI 4                                    4.41           4.59           3.89             (15.25)           4.78           4.02             (15.90)
+    Source: OJK, Ajaib Research
+PT Ajaib Sekuritas Asia | www.ajaib.co.id                                                                     2
+                                                                                                                             This report is intended exclusively for Ajaib Clients. Unauthorized sharing or distribution is strictly forbidden
+
+===== PAGE 3 =====
+
+  SECTORAL REPORT | May 18, 2026
+
+
+
+   Table 4. Banking Sector Key Metrics
+
+   CAR (%)                              2023         2024         2025      YoY Growth (%)     1M26       2M26    MoM Growth(%)
+   KBMI 1                                    33.4           31.4           30.9               (1.62)           31.05           30.7              (1.19)
+   KBMI 2                                    36.9           37.8           41.5             9.69            40.82           40.9             0.15
+   KBMI 3                                    25.8           25.0           24.7               (1.16)           24.77           24.8             0.12
+   KBMI 4                                    24.8           23.7           22.3               (5.67)           22.33           22.3             0.00
+  ROA (%)                              2023         2024         2025      YoY Growth (%)     1M26       2M26    MoM Growth(%)
+   KBMI 1                                       1.3             0.9             1.4            51.09             1.7             1.5              (10.84)
+   KBMI 2                                       1.6             2.0             2.1              6.15              2.0             1.9               (2.02)
+   KBMI 3                                       1.8             1.7             1.6                (6.32)             1.7             1.6               (8.05)
+   KBMI 4                                       3.9             3.8             3.4              (11.14)             3.2             3.0               (3.49)
+   NIM (%)                              2023         2024         2025      YoY Growth (%)     1M26       2M26    MoM Growth(%)
+   KBMI 1                                       4.9             4.5             4.7             3.98              4.6             4.6               (1.72)
+   KBMI 2                                       4.3             4.3             5.1            17.74             4.9             4.8               (0.62)
+   KBMI 3                                       3.8             3.6             3.9            10.14             3.9             3.7               (3.36)
+   KBMI 4                                       5.3             5.2             5.1               (3.05)             5.0             4.7               (4.24)
+   LDR (%)                              2023         2024         2025      YoY Growth (%)     1M26       2M26    MoM Growth(%)
+   KBMI 1                                    81.8           82.5           80.8              (2.12)            78.9           79.7             1.04
+   KBMI 2                                    84.4           84.9           83.1              (2.18)            81.7           82.3             0.72
+   KBMI 3                                    88.6           89.3           85.6              (4.10)            85.3           86.6             1.48
+   KBMI 4                                    81.9           90.3           86.5              (4.31)            86.4           85.1              (1.50)
+
+    Source: OJK, Ajaib Research
+
+   Table 5. KBMI 4 Key Metrics Comparison
+
+   CAR (%)                              2023         2024         2025      YoY Growth (%)      1Q25        1Q26      YoY Growth (%)
+   BBCA                                      29.4           29.4           29.8              1.4             26.6           27.0              1.5
+   BMRI                                      22.0           20.8           20.4                (1.9)             18.5           19.7               6.5
+   BBRI                                       27.3           26.6           23.5              (11.7)            24.0           22.9                 (4.6)
+   BBNI                                      22.0           21.4           20.7                (3.3)             22.3           18.5              (17.0)
+   NIM (%)                              2023         2024         2025      YoY Growth (%)      1Q25        1Q26      YoY Growth (%)
+   BBCA                                         5.5             5.8             5.2               (10.3)             5.8             5.4                  (6.9)
+   BMRI                                         5.5             5.2             4.9                 (5.0)              4.8             4.7                 (1.1)
+   BBRI                                          8.0             7.9             7.8                 (1.3)              7.7             7.9               2.6
+   BBNI                                         4.6             4.2             3.8                 (9.5)              3.9             3.6                 (7.7)
+   LDR (%)                              2023         2024         2025      YoY Growth (%)      1Q25        1Q26      YoY Growth (%)
+   BBCA                                      70.2           78.4           76.8                (2.0)             76.1           74.1                 (2.6)
+   BMRI                                      85.8           95.1           87.6                (7.9)             93.2           90.4                 (3.0)
+   BBRI                                       84.2           88.9           91.4              2.9             86.0           87.2              1.4
+   BBNI                                      86.8           96.1           86.4              (10.1)            93.1           83.5              (10.3)
+   CASA(%)                              2023         2024         2025      YoY Growth (%)      1Q25        1Q26      YoY Growth (%)
+   BBCA                                      81.1           82.4           84.6              2.7             82.9           85.2              2.8
+   BMRI                                      74.3           74.8           68.0                (9.1)             75.2           70.2                  (6.6)
+   BBRI                                       64.3           67.3           70.6              4.9             66.0           68.1              3.2
+   BBNI                                      71.2           69.9           69.7                (0.3)             70.5           66.5                 (5.7)
+   COC(%)                               2023         2024         2025      YoY Growth (%)      1Q25        1Q26      YoY Growth (%)
+   BBCA                                         0.3             0.3             0.5              66.7              0.5             0.6             20.0
+   BMRI                                         0.9             0.8             0.6                (26.6)              0.8             0.6               (30.1)
+   BBRI                                          2.4             3.2             3.3               3.1               3.5             3.2                  (8.6)
+   BBNI                                         1.4             1.1             1.2               9.1               0.9             1.1             22.2
+   NPL(%)                               2023         2024         2025      YoY Growth (%)      1Q25        1Q26      YoY Growth (%)
+   BBCA                                         1.9             1.8             1.7                  (5.6)              2.0             1.8               (10.0)
+   BMRI                                         1.2             1.1             1.1               0.9               1.0             1.0               0.0
+   BBRI                                          2.9             2.8             3.1             10.7              3.1             3.3               5.4
+   BBNI                                         2.1             2.0             1.9                 (5.0)              2.0             1.9                 (5.0)
+   LAR(%)                               2023         2024         2025      YoY Growth (%)      1Q25        1Q26      YoY Growth (%)
+   BBCA                                         6.9             5.3             4.8                 (9.4)              6.0             5.1               (15.0)
+   BMRI                                         8.6             6.8             6.5                 (4.1)              7.2             6.0                (16.5)
+   BBRI                                       12.5           10.7             9.6               (10.3)            11.4           10.3                 (9.3)
+   BBNI                                      12.9           10.3             8.5               (17.5)            10.9             8.6               (21.1)
+
+    Source: Company, Ajaib Research
+
+PT Ajaib Sekuritas Asia | www.ajaib.co.id                                                                     3
+                                                                                                                             This report is intended exclusively for Ajaib Clients. Unauthorized sharing or distribution is strictly forbidden
+
+===== PAGE 4 =====
+
+  PT Ajaib Sekuritas Asia
+  Neo Soho @Podomoro City Lt. 30,
+    Jl. Letjen S. Parman No.28,
+   Jakarta Barat
+   Email: support.saham@ajaib.co.id
+   Phone: 021-30003606
+
+
+   Rating for Sectors:
+  Overweight : We expect the industry to perform better than the primary market index (JCI) over the next 12 months.
+   Neutral : We expect the industry to perform in line with the primary market index (JCI) over the next 12 months.
+  Underweight : We expect the industry to underperform the primary market index (JCI) over the next 12 months.
+
+   Rating for Stocks:
+  Buy : The stock is expected to give total return (price appreciation + dividend yield) of > +10% over the next 12 months.
+  Hold : The stock is expected to give total return of > 0% to ≤ +10% over the next 12 months.
+   Sell : The stock is expected to give total return of < 0% over the next 12 months.
+  Outperform : The stock is expected to do slightly better than the market return. Equal to “moderate buy”
+  Underperform : The stock is expected to do slightly worse than the market return. Equal to “moderate sell”
+
+   Analyst Certification:
+  The lead analyst(s) who prepared this equity research report confirm that the opinions stated herein genuinely represent their personal perspectives
+   regarding all the securities or issuers discussed. Additionally, the analyst(s) assert that their remuneration was not, is not, and will not be tied, either
+   directly or indirectly, to any specific recommendations or viewpoints presented in this report.
+
+
+
+
+
+   PREPARED BY AJAIB RESEARCH TEAM
+
+
+
+
+
+  DISCLAIMER
+   This research report is published by PT Ajaib Sekuritas Asia and is based on information from sources that we believe to be reliable but have not been
+   independently verified. We have taken all reasonable care to ensure that information contained herein is not untrue or misleading at the time of
+   publication, however PT Ajaib Sekuritas Asia makes no representation as to its accuracy or completeness and it should not be solely relied upon. This
+   research report is provided for the Investors of PT Ajaib Sekuritas Asia. Research reports which contain opinions may change anytime without any
+   obligation for PT Ajaib Sekuritas Asia to notify any party. This research report is not intended for media publication. The media is not allowed to quote
+   this research report in any article whether in full or in parts without permission from PT Ajaib Sekuritas Asia. For further information, the media can
+   contact PT Ajaib Sekuritas Asia if they wish to refer to this research report.
+
+   This research report was prepared, approved, published and distributed by PT Ajaib Sekuritas Asia. This research report is not a recommendation,
+   invitation, or order to make any investment decisions, including but not limited to, buy or sell certain investment products. Any investment decision made
+  by the Investor will be the sole responsibility of the Investor, and PT Ajaib Sekuritas Asia nor any officer or employee of PT Ajaib Sekuritas Asia are not
+   responsible for any losses that may occur due to the Investor’s investment decision.
+
+
+
+
+PT Ajaib Sekuritas Asia | www.ajaib.co.id                                                                    4
+                                                                                                                            This report is intended exclusively for Ajaib Clients. Unauthorized sharing or distribution is strictly forbidden

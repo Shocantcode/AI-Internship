@@ -1,0 +1,55 @@
+TITLE:
+Indosat-Nokia-NVIDIA Bangun Infrastruktur AI Terbesar di Asia Tenggara
+
+PUBLISHER:
+Detik Finance
+
+URL:
+https://finance.detik.com/berita-ekonomi-bisnis/d-8607398/indosat-nokia-nvidia-bangun-infrastruktur-ai-terbesar-di-asia-tenggara
+
+PUBLISHED_AT:
+
+
+CONTENT:
+
+Indosat Ooredoo Hutchison (Indosat) meluncurkan Zankore by Indosat yang berkolaborasi bersama Ooredoo Group, Nokia, dan NVIDIA. Inisiatif tersebut bertujuan untuk membangun infrastruktur kecerdasan buatan atau Artificial Intelligence (AI) generasi terbaru untuk pasar global dengan Asia-Pasifik sebagai titik awal pengembangannya.
+
+Kolaborasi tersebut hadir untuk menjawab tingginya lonjakan permintaan komputasi masa depan yang aman dan berskala masif. Kehadiran proyek ini sekaligus memperkuat posisi Indonesia sebagai hub inovasi teknologi tingkat regional.
+
+Menteri Komunikasi dan Digital Republik Indonesia Meutya Hafid menyambut baik langkah kolaborasi tersebut. Ia optimistis sinergi ini mampu memperkuat daya saing ekonomi digital di Tanah Air.
+
+SCROLL TO CONTINUE WITH CONTENT
+
+"Indonesia memiliki potensi besar untuk memenuhi kebutuhan dalam negeri maupun melayani kawasan yang lebih luas. Melalui perpaduan kekayaan sumber daya dan talenta Indonesia, keahlian global, dan kemitraan strategis, kita dapat mengakselerasi pembangunan infrastruktur AI yang berdaulat serta bermanfaat bagi bisnis dan masyarakat. Pemerintah siap mendukung penuh inisiatif yang memperkuat daya saing digital Indonesia, sekaligus memastikan manfaat AI dapat dirasakan secara adil dan merata di seluruh penjuru negeri," ujar Meutya dalam keterangan tertulisnya, Kamis (6/8/2026).
+
+Inisiatif ini menetapkan target kapasitas AI Factory NVIDIA DSX sebesar 1 Gigawatt (GW). Platform raksasa ini dirancang untuk mendorong adopsi teknologi cerdas secara luas di berbagai sektor industri. Penggunaannya mencakup implementasi sistem Agentic AI hingga layanan Enterprise AI yang sangat krusial saat ini.
+
+Group Chief Executive Officer Ooredoo Group Aziz Aluthman Fakhroo menyoroti pentingnya investasi strategis di sektor teknologi masa depan. Platform baru ini dinilai esensial dalam menciptakan pertumbuhan ekonomi jangka panjang.
+
+"Infrastruktur AI kini telah menjadi fondasi utama dalam ekonomi digital. Kami percaya bahwa peluang terbaik akan lahir dari investasi berskala besar yang dilakukan lebih awal bersama mitra yang tepat. Melalui Zankore by Indosat, kami menggabungkan keunggulan dari Ooredoo Group, Indosat, NVIDIA, dan Nokia. Langkah ini bertujuan membangun platform yang menciptakan pertumbuhan jangka panjang, sekaligus mendukung ambisi pengembangan AI di Asia Tenggara," kata Aziz.
+
+Kolaborasi empat perusahaan besar ini memiliki pembagian peran yang sangat jelas. Ooredoo Group bertindak sebagai sponsor utama dengan komitmen penyediaan modal berjangka panjang. Sementara itu, Indosat membawa keunggulan di sisi penguasaan pasar lokal serta fondasi infrastruktur digital yang tangguh.
+
+President Director and Chief Executive Officer Indosat Ooredoo Hutchison Vikram Sinha menjelaskan tingginya kebutuhan adopsi kecerdasan buatan saat ini. Kebutuhan akan ekosistem terpadu menjadi sebuah keniscayaan di berbagai sektor industri.
+
+"Seiring berkembangnya pemanfaatan AI dari tahap eksperimen menuju penerapan nyata di berbagai industri, kebutuhan akan daya komputasi pun terus meningkat menjadi ekosistem AI yang terintegrasi. Dengan kapabilitas AI yang menyeluruh, mulai dari model AI seperti Sahabat-AI hingga kemampuan jaringan cerdas melalui AI Grid dan AI-RAN, Zankore by Indosat menghadirkan fondasi tepercaya untuk mempercepat adopsi AI dalam skala besar," papar Vikram.
+
+Fasilitas komputasi canggih ini mengandalkan Reference Architecture NVIDIA DSX sebagai basis utama pengembangannya. Platform tersebut menyatukan fungsi komputasi, jaringan, daya listrik, dan sistem pendinginan dalam satu kesatuan yang kohesif. Rancangan ini bertujuan memaksimalkan hasil pengolahan data dari setiap Megawatt aliran energi yang tersedia.
+
+Zankore menargetkan ketersediaan kapasitas komputasi sekitar 200 Megawatt (MW) pada paruh pertama tahun 2027 mendatang. Operasional sistem tersebut akan sepenuhnya ditenagai oleh perangkat superkomputer NVIDIA GB300 NVL72. Optimalisasi daya komputasi secara dinamis turut dilakukan melalui integrasi fitur canggih NVIDIA DSX MaxLPS.
+
+President and CEO Nokia Justin Hotard menambahkan pandangannya terkait aspek konektivitas sirkulasi data. Jaringan telekomunikasi memegang peranan vital dalam menyokong orkestrasi sistem super canggih tersebut.
+
+"Seiring berkembangnya penerapan AI di dunia nyata, berbagai negara dan pelaku usaha semakin fokus membangun kemampuan AI yang berdaulat, aman, scalable, serta tepercaya. Untuk mewujudkannya, dibutuhkan orkestrasi cerdas antara komputasi, konektivitas, dan kontrol di seluruh AI factory, pusat data, dan perangkat yang digunakan. Teknologi jaringan yang AI-native dari Nokia menyediakan konektivitas tepercaya yang menjadi penopang utama generasi baru infrastruktur AI ini. Bersama Indosat, Ooredoo Group, dan NVIDIA, kami membangun salah satu platform infrastruktur AI tercanggih di Asia Tenggara," jelas Justin.
+
+Senior Vice President of Telecom NVIDIA Ronnie Vasishta meyakini mega proyek ini akan mengubah konstelasi industri di Asia Tenggara. Manfaat percepatan teknologi masa depan ini dipastikan dapat dinikmati oleh khalayak yang jauh lebih luas.
+
+"AI factory merupakan infrastruktur esensial bagi setiap negara dan industri. Dengan dukungan accelerated computing serta model AI yang terbuka dan aman dari NVIDIA, Zankore by Indosat akan mendorong kemampuan Asia Tenggara dalam membentuk masa depan AI yang berkelanjutan secara signifikan. Inisiatif ini akan mentransformasi berbagai industri dan menciptakan peluang baru, sehingga manfaat AI dapat dirasakan oleh setiap komunitas dan pelaku usaha di seluruh kawasan dan sekitarnya," ujar Ronnie.
+
+Struktur kepemimpinan Zankore kini telah terbentuk kokoh untuk mengawal operasional entitas perusahaan. Posisi pimpinan tertinggi dewan diisi oleh Vikram Sinha sebagai Director and Chairman of the Board. Kursi pelaksana eksekutif atau Chief Executive Officer (CEO) dipercayakan langsung kepada sosok berpengalaman Ulf Ewaldsson.
+
+Jajaran pimpinan strategis lainnya diperkuat oleh tokoh-tokoh besar seperti Aziz Aluthman Fakhroo, Thomas Chevanne, Vishal Gupta, dan Arijit Ranjan Sarker. Kehadiran platform Artificial Intelligence berskala masif ini diharapkan mampu mengakselerasi roda pertumbuhan ekonomi regional yang jauh lebih inklusif.
+
+Anda menyukai artikel ini
+
+Artikel disimpan

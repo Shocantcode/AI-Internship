@@ -1,0 +1,50 @@
+{
+  "research_session_id": "research_20260902_231548_d41fdd",
+  "articles": [
+    {
+      "evidence_id": "evidence_001",
+      "title": "Prabowo Minta Harga BBM Subsidi Tak Naik",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/energi/d-8604168/prabowo-minta-harga-bbm-subsidi-tak-naik",
+      "published_at": null,
+      "content_file": "article_001.txt",
+      "content_length": 1977
+    },
+    {
+      "evidence_id": "evidence_002",
+      "title": "Harga Batu Bara Acuan Turun Jadi US$ 124,4/Ton",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/energi/d-8609483/harga-batu-bara-acuan-turun-jadi-us-124-4-ton",
+      "published_at": null,
+      "content_file": "article_002.txt",
+      "content_length": 2098
+    },
+    {
+      "evidence_id": "evidence_003",
+      "title": "Harga Acuan Batu Bara RI Turun Jadi US$ 124,44 per Ton",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/energi/d-8601936/harga-acuan-batu-bara-ri-turun-jadi-us-124-44-per-ton",
+      "published_at": null,
+      "content_file": "article_003.txt",
+      "content_length": 2425
+    },
+    {
+      "evidence_id": "evidence_004",
+      "title": "IHSG Melemah, Pemerintah Siapkan Aturan BK Batubara & BFIN Bagikan Dividen Interim",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8252114/ihsg-melemah-pemerintah-siapkan-aturan-bk-batubara-bfin-bagikan-dividen-interim",
+      "published_at": null,
+      "content_file": "article_004.txt",
+      "content_length": 2741
+    },
+    {
+      "evidence_id": "evidence_005",
+      "title": "Harga Batu Bara Rontok, Laba ITMG Turun 29,51%",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8105453/harga-batu-bara-rontok-laba-itmg-turun-29-51",
+      "published_at": null,
+      "content_file": "article_005.txt",
+      "content_length": 3398
+    }
+  ]
+}

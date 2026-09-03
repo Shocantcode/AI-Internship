@@ -1,0 +1,97 @@
+{
+  "stored": 5,
+  "skipped": 0,
+  "failed": 0,
+  "verified": 5,
+  "objects": [
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8604168.json",
+      "url": "https://finance.detik.com/energi/d-8604168/prabowo-minta-harga-bbm-subsidi-tak-naik",
+      "etag": "caba6440dabce0c35ee3f389436dfb8b",
+      "content_length": 2706
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8609483.json",
+      "url": "https://finance.detik.com/energi/d-8609483/harga-batu-bara-acuan-turun-jadi-us-124-4-ton",
+      "etag": "08d2e600b177c9d2748a39fae847b4ac",
+      "content_length": 2816
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8601936.json",
+      "url": "https://finance.detik.com/energi/d-8601936/harga-acuan-batu-bara-ri-turun-jadi-us-124-44-per-ton",
+      "etag": "bbbf6296a5bc9e71543ce66e784fcfa8",
+      "content_length": 3160
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8252114.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8252114/ihsg-melemah-pemerintah-siapkan-aturan-bk-batubara-bfin-bagikan-dividen-interim",
+      "etag": "de34523feabe84dbcab43e3327af96ed",
+      "content_length": 3579
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8105453.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8105453/harga-batu-bara-rontok-laba-itmg-turun-29-51",
+      "etag": "dc60f5e5af7a1771b997697e1a2dd6b9",
+      "content_length": 4161
+    }
+  ],
+  "errors": [],
+  "bucket": "news",
+  "artifact": {
+    "artifact": "articles.json",
+    "type": "news_intelligence",
+    "topic": "Harga Batubara",
+    "query": "Harga BatuBara",
+    "job_id": "research_20260902_232959_34f22b",
+    "source": "Computer Use",
+    "storage": "minio",
+    "bucket": "news",
+    "object_key": "intelligence/harga_batubara/research_20260902_232959_34f22b/metadata.json",
+    "article_count": 5,
+    "status": "completed",
+    "created_at": "2026-09-02T23:31:20.660339+00:00",
+    "objects": [
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8604168.json",
+        "url": "https://finance.detik.com/energi/d-8604168/prabowo-minta-harga-bbm-subsidi-tak-naik",
+        "etag": "caba6440dabce0c35ee3f389436dfb8b",
+        "content_length": 2706
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8609483.json",
+        "url": "https://finance.detik.com/energi/d-8609483/harga-batu-bara-acuan-turun-jadi-us-124-4-ton",
+        "etag": "08d2e600b177c9d2748a39fae847b4ac",
+        "content_length": 2816
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8601936.json",
+        "url": "https://finance.detik.com/energi/d-8601936/harga-acuan-batu-bara-ri-turun-jadi-us-124-44-per-ton",
+        "etag": "bbbf6296a5bc9e71543ce66e784fcfa8",
+        "content_length": 3160
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8252114.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8252114/ihsg-melemah-pemerintah-siapkan-aturan-bk-batubara-bfin-bagikan-dividen-interim",
+        "etag": "de34523feabe84dbcab43e3327af96ed",
+        "content_length": 3579
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8105453.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8105453/harga-batu-bara-rontok-laba-itmg-turun-29-51",
+        "etag": "dc60f5e5af7a1771b997697e1a2dd6b9",
+        "content_length": 4161
+      }
+    ]
+  },
+  "status": "verified"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_1ac5404e",
+    "execution_id": "exec_20260903_1ac5404e",
+    "id": "understanding",
+    "activity_id": "understanding",
+    "event_id": null,
+    "stage": "understanding",
+    "action": "understanding",
+    "status": "failed",
+    "label": "Understanding the question",
+    "timestamp": "2026-09-03T08:05:46.984969+07:00",
+    "started_at": "2026-09-03T08:05:46.967854+07:00",
+    "completed_at": "2026-09-03T08:05:46.984969+07:00",
+    "tool": null
+  }
+]

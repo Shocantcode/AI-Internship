@@ -1,0 +1,91 @@
+[
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "search_web",
+    "status": "running",
+    "label": "Searching current information",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:29:59.018184+00:00"
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "search_site",
+    "status": "running",
+    "label": "Searching DetikFinance",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:30:00.652945+00:00"
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "search_site",
+    "status": "completed",
+    "label": "Searching DetikFinance",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:30:20.429231+00:00",
+    "duration_ms": 19776,
+    "result_count": 7
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "open_sources",
+    "status": "running",
+    "label": "Opening relevant sources",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:30:20.435162+00:00",
+    "result_count": 7
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "open_sources",
+    "status": "completed",
+    "label": "Opening relevant sources",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:30:20.443350+00:00",
+    "result_count": 7
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "read_sources",
+    "status": "running",
+    "label": "Reading source content",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:30:20.456055+00:00",
+    "result_count": 7
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "read_sources",
+    "status": "completed",
+    "label": "Reading source content",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:31:20.267208+00:00",
+    "duration_ms": 59811,
+    "result_count": 5
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkqapkp-da984a9a",
+    "stage": "current_research",
+    "action": "search_web",
+    "status": "completed",
+    "label": "Searching current information",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T23:31:20.298460+00:00",
+    "duration_ms": 81280,
+    "result_count": 5
+  }
+]

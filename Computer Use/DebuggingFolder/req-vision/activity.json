@@ -1,0 +1,39 @@
+[
+  {
+    "type": "activity",
+    "request_id": "req-vision",
+    "execution_id": "req-vision",
+    "id": "understanding",
+    "activity_id": "understanding",
+    "event_id": null,
+    "stage": "understanding",
+    "action": "understanding",
+    "status": "running",
+    "label": "Understanding the question",
+    "timestamp": "2026-09-03T07:35:21.885979+07:00",
+    "started_at": "2026-09-03T07:35:21.885979+07:00",
+    "completed_at": null,
+    "tool": null
+  },
+  {
+    "type": "activity",
+    "request_id": "req-vision",
+    "execution_id": "req-vision",
+    "id": "routing",
+    "activity_id": "routing",
+    "event_id": null,
+    "stage": "routing",
+    "action": "routing",
+    "status": "completed",
+    "label": "Image attachment detected; routing to Vision Processing",
+    "timestamp": "2026-09-03T07:35:21.885979+07:00",
+    "started_at": "2026-09-03T07:35:21.885979+07:00",
+    "completed_at": "2026-09-03T07:35:21.885979+07:00",
+    "tool": "process_image",
+    "metadata": {
+      "tool": "process_image",
+      "route": "vision",
+      "image_count": 1
+    }
+  }
+]

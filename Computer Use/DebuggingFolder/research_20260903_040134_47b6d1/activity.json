@@ -1,0 +1,91 @@
+[
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "search_web",
+    "status": "running",
+    "label": "Searching current information",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:01:34.360593+00:00"
+  },
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "search_site",
+    "status": "running",
+    "label": "Searching DetikFinance",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:01:38.313165+00:00"
+  },
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "search_site",
+    "status": "completed",
+    "label": "Searching DetikFinance",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:02:02.548263+00:00",
+    "duration_ms": 24235,
+    "result_count": 9
+  },
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "open_sources",
+    "status": "running",
+    "label": "Opening relevant sources",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:02:02.567751+00:00",
+    "result_count": 9
+  },
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "open_sources",
+    "status": "completed",
+    "label": "Opening relevant sources",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:02:02.585928+00:00",
+    "result_count": 9
+  },
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "read_sources",
+    "status": "running",
+    "label": "Reading source content",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:02:02.610096+00:00",
+    "result_count": 9
+  },
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "read_sources",
+    "status": "completed",
+    "label": "Reading source content",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:04:26.990972+00:00",
+    "duration_ms": 144380,
+    "result_count": 5
+  },
+  {
+    "type": "activity",
+    "request_id": "exec_20260903_be064011",
+    "stage": "current_research",
+    "action": "search_web",
+    "status": "completed",
+    "label": "Searching current information",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-03T04:04:27.058218+00:00",
+    "duration_ms": 172697,
+    "result_count": 5
+  }
+]

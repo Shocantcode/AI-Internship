@@ -1,0 +1,50 @@
+{
+  "research_session_id": "research_20260902_221644_f22905",
+  "articles": [
+    {
+      "evidence_id": "evidence_001",
+      "title": "Harga Emas Antam Naik Jadi Segini",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8646130/harga-emas-antam-naik-jadi-segini",
+      "published_at": null,
+      "content_file": "article_001.txt",
+      "content_length": 1807
+    },
+    {
+      "evidence_id": "evidence_002",
+      "title": "Antam Amankan Pasokan Emas Domestik",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/foto-bisnis/d-8385612/antam-amankan-pasokan-emas-domestik",
+      "published_at": null,
+      "content_file": "article_002.txt",
+      "content_length": 197
+    },
+    {
+      "evidence_id": "evidence_003",
+      "title": "Harga Emas Dunia Cetak Rekor Baru di Pasar Global",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/foto-bisnis/d-8331101/harga-emas-dunia-cetak-rekor-baru-di-pasar-global",
+      "published_at": null,
+      "content_file": "article_003.txt",
+      "content_length": 208
+    },
+    {
+      "evidence_id": "evidence_004",
+      "title": "Harga Patokan Ekspor Emas Naik!",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8642604/harga-patokan-ekspor-emas-naik",
+      "published_at": null,
+      "content_file": "article_004.txt",
+      "content_length": 2763
+    },
+    {
+      "evidence_id": "evidence_005",
+      "title": "IBMA Resmi Dibentuk Jadi Wadah Ekosistem Emas Indonesia",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8626963/ibma-resmi-dibentuk-jadi-wadah-ekosistem-emas-indonesia",
+      "published_at": null,
+      "content_file": "article_005.txt",
+      "content_length": 4570
+    }
+  ]
+}

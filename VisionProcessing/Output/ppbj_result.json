@@ -1,0 +1,111 @@
+{
+    "document": {
+        "document_type": "PEMBERITAHUAN PEROLEHAN ATAU PENGELUARAN BARANG KENA PAJAK ATAU JASA KENA PAJAK (PPBJ)",
+        "ppbj_number": "00025121017123",
+        "document_date": "11 Desember 2025"
+    },
+    "transaction": {
+        "object": "BKP TERWUJUD",
+        "type": "PEROLEHAN",
+        "origin_destination": "TLDDP"
+    },
+    "company": {
+        "name": "ASIA PAPERINDO PERKASA",
+        "npwp": "0018493239036000",
+        "address": "TUNAS INDUSTRIAL ESTATE, JL ENGKU PUTRI RT. RW., BELIAN, BATAM KOTA, KOTA BATAM, KEPULAUAN RIAU",
+        "registered_kpp": "KPP MADYA BATAM",
+        "kpbpb": "BATAM"
+    },
+    "counterparty": {
+        "name": "CAKRAWALA MEGA INDAH",
+        "npwp_nik": "0013710603092000000000",
+        "address": "GEDUNG SINAR MAS LAND PLAZA MENARA 2 LT.16 JL M.H. THAMRIN RT. RW., GONDANGDIA, MENTENG, KOTA ADMINISTRASI JAKARTA PUSAT, DAERAH KHUSUS IBUKOTA JAKARTA",
+        "registered_kpp": "092-KPP WAJIB PAJAK BESAR DUA"
+    },
+    "contract": {
+        "number": "D1L0102440",
+        "date": "02-12-2025"
+    },
+    "items": [
+        {
+            "page": 2,
+            "item_number": 1,
+            "type": "Bahan Baku",
+            "hs_code": "48051990",
+            "description": "FLUTING MEDIUM PD BROWN 280 112gsm W=1000mm L=7600m C=3in 1rol/bundle GOLDEN COIN MA A Qly (HS Code: 4805.19.90)",
+            "transaction_value": 29973960
+        },
+        {
+            "page": 2,
+            "item_number": 2,
+            "type": "Bahan Baku",
+            "hs_code": "48051990",
+            "description": "FLUTING MEDIUM PD BROWN 280 112gsm W=1200mm L=7600m C=3in 1rol/bundle GOLDEN COIN MA A Qly (HS Code: 4805.19.90)",
+            "transaction_value": 60870380
+        },
+        {
+            "page": 2,
+            "item_number": 3,
+            "type": "Bahan Baku",
+            "hs_code": "48051990",
+            "description": "FLUTING MEDIUM PD BROWN 280 112gsm W=850mm L=7600m C=3in 1rol/bundle GOLDEN COIN MA A Qly (HS Code: 4805.19.90)",
+            "transaction_value": 17131400
+        },
+        {
+            "page": 2,
+            "item_number": 4,
+            "type": "Bahan Baku",
+            "hs_code": "48051990",
+            "description": "FLUTING MEDIUM PD BROWN 280 112gsm W=1100mm L=7600m C=3in 1rol/bundle GOLDEN COIN MA A Qly (HS Code: 4805.19.90)",
+            "transaction_value": 27757660
+        },
+        {
+            "page": 2,
+            "item_number": 5,
+            "type": "Bahan Baku",
+            "hs_code": "48051990",
+            "description": "FLUTING MEDIUM PD BROWN 280 112gsm W=1150mm L=7600m C=3in 1rol/bundle GOLDEN COIN MA A Qly (HS Code: 4805.19.90)",
+            "transaction_value": 11422930
+        }
+    ],
+    "values": {
+        "total_transaction_value": 147156330,
+        "tax_base": 134893301,
+        "down_payment": 0,
+        "vat_or_luxury_tax": 16187193,
+        "vat_or_luxury_tax_facility": 16187193
+    },
+    "payment": {
+        "account_number": "0027638821",
+        "account_name": "PT. Asia Paperindo Perkasa",
+        "bank_name": "BANK SINARMAS"
+    },
+    "pages": [
+        {
+            "page": 1,
+            "sections": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ]
+        },
+        {
+            "page": 2,
+            "sections": [
+                "H"
+            ]
+        },
+        {
+            "page": 3,
+            "sections": [
+                "I",
+                "J",
+                "K"
+            ]
+        }
+    ]
+}

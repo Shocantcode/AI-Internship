@@ -1,0 +1,97 @@
+{
+  "stored": 5,
+  "skipped": 0,
+  "failed": 0,
+  "verified": 5,
+  "objects": [
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8637612.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8637612/simak-rekomendasi-saham-saat-ihsg-menguat",
+      "etag": "6a485c177791049d55444b89859e2a9b",
+      "content_length": 5719
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8636020.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8636020/ihsg-melemah-cek-rekomendasi-saham-hari-ini",
+      "etag": "2fa9654e71b45a0c886d3a39e5e7d992",
+      "content_length": 5559
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8641292.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8641292/ihsg-melemah-tipis-cek-rekomendasi-saham-hari-ini",
+      "etag": "948a7fd2b44d7de7462b23ad1dba4d5a",
+      "content_length": 5917
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8329562.json",
+      "url": "https://finance.detik.com/foto-bisnis/d-8329562/ihsg-anjlok-8-persen-bei-hentikan-sementara-perdagangan-saham",
+      "etag": "e99ba792f20de55215890e841f759050",
+      "content_length": 2447
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8642873.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8642873/asii-mau-tambah-saham-auto-sementara-peha-raup-laba-rp-14-97-miliar",
+      "etag": "e276ff5f5e10400b2c56c9bedb542432",
+      "content_length": 5232
+    }
+  ],
+  "errors": [],
+  "bucket": "news",
+  "artifact": {
+    "artifact": "articles.json",
+    "type": "news_intelligence",
+    "topic": "Ihsg Tertinggi Sepanjang Masa Rekor",
+    "query": "IHSG tertinggi sepanjang masa rekor terbaru",
+    "job_id": "research_20260902_220309_2232bc",
+    "source": "Computer Use",
+    "storage": "minio",
+    "bucket": "news",
+    "object_key": "intelligence/ihsg_tertinggi_sepanjang_masa_rekor/research_20260902_220309_2232bc/metadata.json",
+    "article_count": 5,
+    "status": "completed",
+    "created_at": "2026-09-02T22:04:30.339481+00:00",
+    "objects": [
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8637612.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8637612/simak-rekomendasi-saham-saat-ihsg-menguat",
+        "etag": "6a485c177791049d55444b89859e2a9b",
+        "content_length": 5719
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8636020.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8636020/ihsg-melemah-cek-rekomendasi-saham-hari-ini",
+        "etag": "2fa9654e71b45a0c886d3a39e5e7d992",
+        "content_length": 5559
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8641292.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8641292/ihsg-melemah-tipis-cek-rekomendasi-saham-hari-ini",
+        "etag": "948a7fd2b44d7de7462b23ad1dba4d5a",
+        "content_length": 5917
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8329562.json",
+        "url": "https://finance.detik.com/foto-bisnis/d-8329562/ihsg-anjlok-8-persen-bei-hentikan-sementara-perdagangan-saham",
+        "etag": "e99ba792f20de55215890e841f759050",
+        "content_length": 2447
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8642873.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8642873/asii-mau-tambah-saham-auto-sementara-peha-raup-laba-rp-14-97-miliar",
+        "etag": "e276ff5f5e10400b2c56c9bedb542432",
+        "content_length": 5232
+      }
+    ]
+  },
+  "status": "verified"
+}

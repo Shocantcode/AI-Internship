@@ -1,0 +1,97 @@
+{
+  "stored": 5,
+  "skipped": 0,
+  "failed": 0,
+  "verified": 5,
+  "objects": [
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8385612.json",
+      "url": "https://finance.detik.com/foto-bisnis/d-8385612/antam-amankan-pasokan-emas-domestik",
+      "etag": "a4bc40c0280e2ee52221f1dbb0dca7bd",
+      "content_length": 859
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8331101.json",
+      "url": "https://finance.detik.com/foto-bisnis/d-8331101/harga-emas-dunia-cetak-rekor-baru-di-pasar-global",
+      "etag": "4ca9a850bf8420b60e6350fcbbbba0ae",
+      "content_length": 897
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8626963.json",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8626963/ibma-resmi-dibentuk-jadi-wadah-ekosistem-emas-indonesia",
+      "etag": "391b31ca871ed1962b3b36d976513062",
+      "content_length": 5326
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8622804.json",
+      "url": "https://finance.detik.com/moneter/d-8622804/peringatan-hut-ri-ke-81-ini-sejumlah-promo-di-bank-mandiri",
+      "etag": "57948f89f1159ad7a1bd371b08711e8a",
+      "content_length": 5041
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8579422.json",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8579422/harga-emas-turun-bisa-jadi-momen-tepat-untuk-mulai-investasi",
+      "etag": "9aba9a0620e80604021d926a54acfba6",
+      "content_length": 3086
+    }
+  ],
+  "errors": [],
+  "bucket": "news",
+  "artifact": {
+    "artifact": "articles.json",
+    "type": "news_intelligence",
+    "topic": "Emas",
+    "query": "emas",
+    "job_id": "research_20260903_173629_ae584e",
+    "source": "Computer Use",
+    "storage": "minio",
+    "bucket": "news",
+    "object_key": "intelligence/emas/research_20260903_173629_ae584e/metadata.json",
+    "article_count": 5,
+    "status": "completed",
+    "created_at": "2026-09-03T17:39:10.696403+00:00",
+    "objects": [
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8385612.json",
+        "url": "https://finance.detik.com/foto-bisnis/d-8385612/antam-amankan-pasokan-emas-domestik",
+        "etag": "a4bc40c0280e2ee52221f1dbb0dca7bd",
+        "content_length": 859
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8331101.json",
+        "url": "https://finance.detik.com/foto-bisnis/d-8331101/harga-emas-dunia-cetak-rekor-baru-di-pasar-global",
+        "etag": "4ca9a850bf8420b60e6350fcbbbba0ae",
+        "content_length": 897
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8626963.json",
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8626963/ibma-resmi-dibentuk-jadi-wadah-ekosistem-emas-indonesia",
+        "etag": "391b31ca871ed1962b3b36d976513062",
+        "content_length": 5326
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8622804.json",
+        "url": "https://finance.detik.com/moneter/d-8622804/peringatan-hut-ri-ke-81-ini-sejumlah-promo-di-bank-mandiri",
+        "etag": "57948f89f1159ad7a1bd371b08711e8a",
+        "content_length": 5041
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8579422.json",
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8579422/harga-emas-turun-bisa-jadi-momen-tepat-untuk-mulai-investasi",
+        "etag": "9aba9a0620e80604021d926a54acfba6",
+        "content_length": 3086
+      }
+    ]
+  },
+  "status": "verified"
+}

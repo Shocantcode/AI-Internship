@@ -1,0 +1,97 @@
+{
+  "stored": 5,
+  "skipped": 0,
+  "failed": 0,
+  "verified": 5,
+  "objects": [
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8629612.json",
+      "url": "https://finance.detik.com/fintech/d-8629612/harga-bitcoin-terbang-22-dalam-sepekan",
+      "etag": "6dd79b5fa20793a157a0e50a0a9957a7",
+      "content_length": 2952
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8637573.json",
+      "url": "https://finance.detik.com/fintech/d-8637573/bitcoin-terbang-ke-level-us-80-000-ini-penyebabnya",
+      "etag": "c18f452a3ae26e1ea271b47b382ca8b6",
+      "content_length": 4288
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8579058.json",
+      "url": "https://finance.detik.com/fintech/d-8579058/inflasi-as-turun-harga-bitcoin-langsung-bereaksi",
+      "etag": "6de9d7c3cbd12af7fcc3d5bb258fe41a",
+      "content_length": 2979
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8519339.json",
+      "url": "https://finance.detik.com/fintech/d-8519339/kripto-berdarah-darah-harga-bitcoin-anjlok-15-dalam-sepekan",
+      "etag": "eac0394b567d62a8406c4a1dac3f8bbe",
+      "content_length": 2184
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8534586.json",
+      "url": "https://finance.detik.com/fintech/d-8534586/harga-bitcoin-melonjak-usai-as-iran-damai",
+      "etag": "d68fdf11ba0ea115cf4bc8add37b98cd",
+      "content_length": 2205
+    }
+  ],
+  "errors": [],
+  "bucket": "news",
+  "artifact": {
+    "artifact": "articles.json",
+    "type": "news_intelligence",
+    "topic": "Bitcoin",
+    "query": "Bitcoin",
+    "job_id": "research_20260903_040134_47b6d1",
+    "source": "Computer Use",
+    "storage": "minio",
+    "bucket": "news",
+    "object_key": "intelligence/bitcoin/research_20260903_040134_47b6d1/metadata.json",
+    "article_count": 5,
+    "status": "completed",
+    "created_at": "2026-09-03T04:04:28.272900+00:00",
+    "objects": [
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8629612.json",
+        "url": "https://finance.detik.com/fintech/d-8629612/harga-bitcoin-terbang-22-dalam-sepekan",
+        "etag": "6dd79b5fa20793a157a0e50a0a9957a7",
+        "content_length": 2952
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8637573.json",
+        "url": "https://finance.detik.com/fintech/d-8637573/bitcoin-terbang-ke-level-us-80-000-ini-penyebabnya",
+        "etag": "c18f452a3ae26e1ea271b47b382ca8b6",
+        "content_length": 4288
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8579058.json",
+        "url": "https://finance.detik.com/fintech/d-8579058/inflasi-as-turun-harga-bitcoin-langsung-bereaksi",
+        "etag": "6de9d7c3cbd12af7fcc3d5bb258fe41a",
+        "content_length": 2979
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8519339.json",
+        "url": "https://finance.detik.com/fintech/d-8519339/kripto-berdarah-darah-harga-bitcoin-anjlok-15-dalam-sepekan",
+        "etag": "eac0394b567d62a8406c4a1dac3f8bbe",
+        "content_length": 2184
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8534586.json",
+        "url": "https://finance.detik.com/fintech/d-8534586/harga-bitcoin-melonjak-usai-as-iran-damai",
+        "etag": "d68fdf11ba0ea115cf4bc8add37b98cd",
+        "content_length": 2205
+      }
+    ]
+  },
+  "status": "verified"
+}

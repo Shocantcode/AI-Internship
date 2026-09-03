@@ -1,0 +1,9 @@
+{
+  "research_session_id": "research_20260902_224827_193369",
+  "request_id": "nexus-mtkotaim-ddb5fda0",
+  "query": "batu bara",
+  "created_at": "2026-09-02T22:48:27.613878+00:00",
+  "intent": "general_question",
+  "requires_external_research": false,
+  "requires_forecast": false
+}

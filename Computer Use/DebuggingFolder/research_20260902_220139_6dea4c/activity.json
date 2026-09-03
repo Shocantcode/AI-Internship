@@ -1,0 +1,46 @@
+[
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "current_research",
+    "action": "search_web",
+    "status": "running",
+    "label": "Searching current information",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T22:01:39.555993+00:00"
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "current_research",
+    "action": "search_site",
+    "status": "running",
+    "label": "Searching DetikFinance",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T22:01:40.196317+00:00"
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "current_research",
+    "action": "search_site",
+    "status": "completed",
+    "label": "Searching DetikFinance",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T22:02:12.317792+00:00",
+    "duration_ms": 32121,
+    "result_count": 0
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "current_research",
+    "action": "search_web",
+    "status": "completed",
+    "label": "Searching current information",
+    "tool": "collect_detik_finance_news",
+    "timestamp": "2026-09-02T22:02:12.320461+00:00",
+    "duration_ms": 32764,
+    "result_count": 0
+  }
+]

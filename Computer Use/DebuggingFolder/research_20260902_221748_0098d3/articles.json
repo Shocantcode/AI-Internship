@@ -1,0 +1,23 @@
+{
+  "research_session_id": "research_20260902_221748_0098d3",
+  "articles": [
+    {
+      "evidence_id": "evidence_001",
+      "title": "Kripto hingga Saham Jadi Sumber Duit Trump, Nilainya Fantastis!",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8554701/kripto-hingga-saham-jadi-sumber-duit-trump-nilainya-fantastis?page=3",
+      "published_at": null,
+      "content_file": "article_001.txt",
+      "content_length": 5250
+    },
+    {
+      "evidence_id": "evidence_002",
+      "title": "Indosat-Nokia-NVIDIA Bangun Infrastruktur AI Terbesar di Asia Tenggara",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8607398/indosat-nokia-nvidia-bangun-infrastruktur-ai-terbesar-di-asia-tenggara",
+      "published_at": null,
+      "content_file": "article_002.txt",
+      "content_length": 6314
+    }
+  ]
+}

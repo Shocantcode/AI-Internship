@@ -1,0 +1,13 @@
+mcp==2.0.0
+python-dotenv
+httpx
+chromadb
+numpy
+pandas
+google-genai
+pydantic
+Pillow
+boto3
+pyarrow
+PyMuPDF
+playwright

@@ -1,0 +1,9 @@
+{
+  "research_session_id": "research_20260903_040134_47b6d1",
+  "request_id": "exec_20260903_be064011",
+  "query": "Bitcoin",
+  "created_at": "2026-09-03T04:01:34.378110+00:00",
+  "intent": "current_market_analysis",
+  "requires_external_research": true,
+  "requires_forecast": false
+}

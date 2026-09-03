@@ -1,0 +1,949 @@
+
+===== PAGE 1 =====
+
+STOC K B OT A I                                                       RESEARCH REPORT
+
+                                                                                       CONFIDENTIAL - INTERNAL RESEARCH
+
+
+
+
+
+                               D ATA - D R I V E N  I N S I G H T S
+     INDONESIA EQUITY
+
+                    Multi-Strategy Portfolio Analysis
+
+
+
+
+                                     01 Juli 2026
+
+
+
+
+
+                     20         10         10
+
+                               SWING TRADE         DAY TRADE          SCALPING
+                                           3-10 Day Hold                Intraday              Minutes-Hours
+
+
+
+
+
+   IHSG: 5,695.12 (+0.92%)                          Foreign: Net Sell Rp577.79B                        Rupiah: Rp17,738/USD
+
+===== PAGE 2 =====
+
+                           Daftar Isi
+
+
+1. Executive Summary
+
+2. Global & Domestic Macro Dashboard
+
+3. IHSG Technical Analysis
+
+4. Top Stock Overview & Foreign Flow
+
+5. Sector Analysis
+
+6. Swing Trade - 20 Saham (Premium Cards)
+
+7. One Day Trade - 10 Saham
+
+8. Scalping / Gorengan - 10 Saham
+
+9. Hidden Gem Discovery
+
+10. Cross-Reference Analysis
+
+11. Kalender Ekonomi & Sentimen
+
+12. Appendix - Metodologi & Data
+
+
+
+                                   Data Completeness: 98% (2 field N/D) | Ref: SBT-20260701-A7K3M9
+
+Executive Summary
+
+
+
+
+  MARKET BIAS
+
+ CAUTIOUSLY BULLISH
+
+   IHSG rebound dari support 5,600 setelah 3 hari penurunan berturut-turut. Foreign flow masih net sell tapi volume menurun, sinyal akumulasi awal
+   oleh institusi domestik.
+
+  FEAR                                     NEUTRAL                                   GREED
+
+
+
+                                                     Sentiment Score: 5.5/10 (Neutral)
+
+
+
+
+  IHSG KEY LEVELS
+
+
+   R2                         6,007                    S1                     5,600
+
+   R1                         5,912                    S2                     5,486
+
+    Current                      5,695                   MA20                   5,912
+
+
+   BASE 50%   BULL 25%   BEAR 25%
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 2
+
+===== PAGE 3 =====
+
+                                                 Global & Domestic Macro Dashboard
+
+
+
+
+  STRATEGY ALLOCATION                      TOP 5 KEY INSIGHTS
+
+
+   Swing Trade (20 saham)                          50%             1. MSCI Status Maintained (24 Jun) - Indonesia
+
+                                                               mempertahankan EM status, tapi evaluasi berlanjut ke
+  One Day Trade (10 saham)                        25%                                                             November 2026.
+
+   Scalping (10 saham)                             25%             2. BI Rate 5.75% - Naik 100bps dalam 6 minggu untuk
+                                                                                         stabilisasi rupiah, equity masih outflow tapi membaik.
+
+                                                                                    3. CUAN Double Catalyst - Stock split 1:5 (16 Jul) + masuk
+
+                                                          LQ45 = katalis ganda target 15-25%.
+
+                                                                                    4. MDKA Dividend Play - Cum Dividen 1 Juli, pembayaran
+
+                                                               24 Juli (Rp300 miliar).
+
+                                                                                    5. Smart Money Signal - BBCA (F Buy Rp135.77B), BRPT
+
+                                                                        (Rp66.03B), DSSA (Rp59.41B).
+
+
+
+
+                                               RISK FACTORS
+
+
+                                                       ●MSCI downgrade Nov 2026 - Probability 30%, Impact VERY
+
+                                                      HIGH
+
+                                                               ●BI rate hike lagi (Jul/Aug) - Probability 25%, Impact HIGH
+
+                                                           ●Rupiah >Rp18,000 - Probability 20%, Impact HIGH
+
+                                                                ●Global recession - Probability 15%, Impact VERY HIGH
+
+                                                                      ●Geopolitical escalation - Probability 10%, Impact HIGH
+
+
+
+
+                                            QUICK STATS
+
+
+                                                                                Total Saham    Sektor        Avg           Data
+                                                                               Dianalisis       Terdiversifikasi  Confluence    Completeness
+                                         40       8             Score      98%
+                                                           72/100
+
+
+Global & Domestic Macro Dashboard
+
+
+
+
+  DOMESTIC MACRO
+
+
+    BI Rate                    5.75%        ▲ +100bps                        HAWKISH
+
+     Inflasi                     3.08%        ▲ YoY                                 RISING
+
+    Core Inflasi                 2.59%        ▲ YoY                                 RISING
+
+   Rupiah/USD                17,738        ▼ Strengthening                       POSITIVE
+
+   PDB Q1 2026               +4.87%        ▲ YoY                             STABLE
+
+    Kredit Bank                 +11.51%       ▲ YoY                          GROWING
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 3
+
+===== PAGE 4 =====
+
+                                           IHSG Technical Analysis
+
+
+   SBN 10Y     7.15%   ▲ Rising      NEG EQ
+
+                                        GLOBAL MACRO
+
+
+                                                 S&P 500   7,420    ▲ +14% H1   RISK ON
+
+                                             ▲ Tech
+                                                        Nasdaq    ~16,800                    POSITIVE
+                                                                                                     Rally
+
+                                                                3.50-
+                                                        Fed Funds        ▬ Hold       NEUTRAL
+                                                                3.75%
+
+                                                                                    EM
+                                               DXY       105.0    ▲ Strong
+                                                                                            PRESSURE
+
+                                             ▲ Safe
+                                                             Gold      $3,800                     POSITIVE
+                                                                              Haven
+
+                                                                    Brent Oil   $62     ▬ Stable     MODERATE
+
+                                                               Coal
+                                                                $129.65  ▲ Stable      POSITIVE
+                                                             (Newc)
+
+
+
+
+
+  SECTOR ROTATION MAP
+
+
+
+        TAILWIND            TAILWIND            TAILWIND           NEUTRAL          HEADWIND         HEADWIND
+       Energy           Mining           Plantation        Banking          Property       Consumer
+        +3.2%            +2.8%            +1.8%            +0.5%            -3.5%            -1.2%
+
+
+
+                                                  HEADWIND
+                                              Technology
+                                                   -0.8%
+
+
+IHSG Technical Analysis
+
+
+
+
+  IHSG DAILY CHART - 60 HARI TERAKHIR
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 4
+
+===== PAGE 5 =====
+
+                                             Top Stock Overview & Foreign Flow
+
+
+
+
+
+                                               Sumber: IDX/TradingView - Simulated 60-day data
+
+
+
+
+
+  TECHNICAL STATS                          KEY LEVELS
+
+
+    Trend               LOWER HIGHS & LOWS              R2             6,007     MNC Target
+
+   MA Signal              BEARISH (BELOW MA20/50)            R1             5,912      MA20
+
+   Volume vs 20D Avg    Normal                 ▶ Current      5,695      +0.92%
+
+    Breadth              570 naik / 83 turun                                                     S1             5,600        Psychological
+
+   RSI (14)             ~42 (Neutral)                   S2             5,486      Wave Analysis
+
+   MACD                 BEARISH HISTOGRAM
+                                                                           Foreign Flow (5 Hari)
+
+
+                                                                                                    T-5
+                                                                                                                    T-4
+                                                                                         -800B                            T-3
+                                                                                                                                                    T-2                                                                                                       -650B                                                                                                                                                                   T-1                                                                                                                      -500B
+                                                                                                                                    -350B                                                                                                                                                  -578B
+
+
+Top Stock Overview & Foreign Flow
+
+
+
+
+  TOP 10 NET FOREIGN BUY
+
+
+
+   RANK         SYMBOL                        NET BUY  CHANGE            SECTOR
+
+   1             BBCA                          Rp135.8B  +0.90%                BANKING
+
+   2             BRPT                           Rp66.0B  +7.39%               ENERGY
+
+   3             DSSA                           Rp59.4B  +3.14%               ENERGY
+
+   4             CUAN                           Rp46.1B  +16.98%                MINING
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 5
+
+===== PAGE 6 =====
+
+                                                           Sector Analysis
+
+
+   5   RAJA     Rp20.2B  +10.28%     ENERGY
+
+   6   RATU     Rp13.2B  +20.13%     MINING         TOP 10 NET FOREIGN SELL
+
+   7   BUMI     Rp11.5B  +2.27%       MINING
+                                                 RANK  SYMBOL  NET SELL  CHANGE  SECTOR
+   8   ANTM      Rp5.5B  +0.77%       MINING
+                                                                            -
+                                                          1     BBRI              -2.20%    BANKING
+   9   AADI      Rp2.9B  N/A         ENERGY                          Rp352.4B
+
+   10   MBMA      Rp0.6B  N/A         BATTERY                                 -
+                                                          2     BMRI              N/A       BANKING
+                                                                     Rp246.7B
+
+                                                          3     TPIA     -Rp92.7B  +1.51%    CHEMICAL
+
+                                                          4     BBCA*    -Rp10.7B  +0.90%    BANKING
+
+                                                          5     UNTR      -Rp7.8B  N/A        MINING EQ
+
+                                                          6     TCPI      -Rp4.7B  N/A       CHEMICAL
+
+                                                          7     CPIN     -Rp16.0B  N/A      CONSUMER
+
+                                                          8     HMSP      -Rp4.6B  N/A      CONSUMER
+
+                                                          9     TLKM     -Rp10.9B  N/A       TELCO
+
+                                                          10    MARK      -Rp0.2B  N/A       PROPERTY
+
+
+                                                                *BBCA: Net value sell tapi net foreign BUY Rp135.8B (institutional
+                                                                                       bid)
+
+
+
+
+  NET FOREIGN FLOW VISUALIZATION
+
+
+
+
+
+Sector Analysis
+
+
+
+
+  SECTOR PERFORMANCE
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 6
+
+===== PAGE 7 =====
+
+                                                Swing Trade - 20 Saham
+
+
+
+
+                                          STRATEGY ALLOCATION
+
+
+
+
+
+  KEY SECTOR PICKS
+
+
+    CUAN                       BBCA                       BRPT
+
+      Mining/Energy                              Banking                                    Energy/Chemical
+
+      Stock split + LQ45 inclusion = double          Smart money accumulation Rp135.8B          Energy rally + foreign accumulation
+       catalyst                                          foreign buy                            Rp66B
+
+
+Swing Trade - 20 Saham
+
+
+
+  DNA Swing Trade: Conviction-based positioning. Hold 3-10 hari. Butuh katalis kuat, fundamental solid, smart
+  money accumulation. Target return 10-20%.
+
+
+
+ CUAN  88 Rp620   RAJA  82 Rp3,970  DSSA  80 Rp820   BRPT  78 Rp1,380 MDKA  76 Rp2,540
+
+  Entry Range Rp530-620      Entry     Rp3300-          Entry Range Rp600-820      Entry     Rp1200-          Entry     Rp2300-
+  Target         Rp750    Range    3970              Target       Rp1,000    Range    1380           Range    2540
+  Stop Loss      Rp530      Target       Rp4,800     Stop Loss      Rp600      Target       Rp1,700      Target       Rp2,850
+  R:R Ratio      1.4:1     Stop Loss    Rp3,300     R:R Ratio      0.8:1     Stop Loss    Rp1,200     Stop Loss    Rp2,300
+                          R:R Ratio      1.2:1                             R:R Ratio      1.8:1     R:R Ratio      1.3:1
+    [16 Jul] Stock Split 1:5 +                                             Rights issue pricing +
+   Masuk LQ45 + HMETD            [24 Jun] Rights issue +            Foreign buy Rp59.4B           Rebound from lows +              [24 Jul] Dividen Rp300B +
+                                    Foreign buy Rp20.2B                                              Foreign buy Rp66.0B         Cum Dividen 1 Jul
+   MINING/ENERGY                              ENERGY   HIGH
+
+                       ENERGY   HIGH                                ENERGY/CHEMICAL        MINING   HIGH  MAXIMUM  8%                              5%   5-10D
+                       5%   5-10D                                      HIGH  5%   7-10D      5%   5-10D   5-10D                                      DOUBLE BOTTOM
+
+                       CUP & HANDLE                                 BULL PENNANT          ASCENDING  BULL FLAG FORMING                                   Divergence: Bullish
+                                                                                               TRIANGLE
+                              Divergence: Bullish          Regular | Confluence:        Divergence: Bullish |  Divergence: Hidden
+                             Regular | Confluence:        75/100 | Elliott: Wave 3       Confluence: 76/100 |         Divergence: Hidden  Bullish | Confluence:
+                             78/100 | Elliott: Wave 3                                                   Elliott: Wave 3                  Bullish | Confluence:  82/100 | Elliott: Wave 3
+                                                                                                              74/100 | Elliott: Wave 3
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 7
+
+===== PAGE 8 =====
+
+                                               Swing Trade - 20 Saham
+
+
+
+BREN  74 Rp3,360 ADRO  72 Rp2,260 BBCA  72 Rp5,600  INCO  70 Rp4,330  AMMN  70 Rp3,210
+
+Entry     Rp3000-          Entry     Rp2100-          Entry     Rp5150-          Entry     Rp3900-          Entry     Rp2800-
+Range    3360           Range    2260           Range    5600           Range    4330           Range    3210
+Target       Rp4,200      Target       Rp2,500      Target       Rp6,100      Target       Rp4,800      Target       Rp3,800
+Stop Loss    Rp3,000     Stop Loss    Rp2,100     Stop Loss    Rp5,150     Stop Loss    Rp3,900     Stop Loss    Rp2,800
+R:R Ratio      2.3:1     R:R Ratio      1.5:1     R:R Ratio      1.1:1     R:R Ratio      1.1:1     R:R Ratio      1.4:1
+
+  [Juli] LNG price cut + B50         Coal price stable +                [Q2] Laba kuat + Foreign           Nickel price + Foreign buy        Copper/Gold exposure +
+  biodiesel mandate                Dividend yield                  buy Rp135.8B                 Rp16.9B                         Foreign buy Rp19.7B
+
+ RENEWABLE              MINING   HIGH          BANKING   HIGH          MINING   HIGH            MINING   HIGH
+ ENERGY
+                     5%   7-10D            5%   7-10D            5%   7-10D            5%   7-10D
+ HIGH  5%   7-10D
+                       BULL FLAG             SUPPORT BOUNCE        ASCENDING            CUP & HANDLE
+ RECTANGLE                                                            TRIANGLE
+                            Divergence: Hidden          Divergence: Bullish                                       Divergence: Bullish |
+ BREAKOUT
+                                 Bullish | Confluence:         Regular | Confluence:        Divergence: Bullish |          Confluence: 68/100 |
+Divergence: Bullish |         70/100 | Elliott: Wave 3       74/100 | Elliott: Wave 2       Confluence: 70/100 |             Elliott: Wave 3
+Confluence: 72/100 |                                                                                              Elliott: Wave 3
+Elliott: Wave 3
+
+
+TPIA  68 Rp1,680  BMRI  66 Rp3,810  MBMA  66 Rp510  DEWA  65 Rp292   BEEF  64  Rp160
+
+Entry     Rp1300-          Entry     Rp3500-          Entry Range Rp430-510      Entry Range Rp250-292      Entry Range Rp135-160
+Range    1680           Range    3810              Target         Rp630      Target         Rp350      Target         Rp195
+Target       Rp2,000      Target       Rp4,200     Stop Loss      Rp430     Stop Loss      Rp250     Stop Loss      Rp135
+Stop Loss    Rp1,300     Stop Loss    Rp3,500     R:R Ratio      1.5:1     R:R Ratio      1.4:1     R:R Ratio      1.4:1
+R:R Ratio      0.8:1     R:R Ratio      1.3:1
+                                                                     Analyst TP 834 + Battery        Masuk LQ45 + Rebound         Top gainer + momentum
+ Free float 15%                    [Q2] Laba Rp8.9T (Feb)            material demand                  play                                carry
+ compliance + Analyst TP           naik 16.7% YoY
+ 7,400-8,700                                      BATTERY/ENERGY         MINING   HIGH          CONSUMER
+                       BANKING   HIGH                                                HIGH  3%   5-7D       3%   7-10D             MODERATE  3%
+ CHEMICAL   HIGH
+                     5%   7-10D                                            ROUNDING BOTTOM       DOUBLE BOTTOM           3-5D
+ 5%   7-10D
+                      SUPPORT BOUNCE                                                         Divergence: Bullish           Divergence: Bullish |        MOMENTUM SPIKE
+ FALLING WEDGE
+                            Divergence: Bullish |         Regular | Confluence:        Confluence: 64/100 |                                                                                                                  Divergence: None |
+Divergence: Hidden          Confluence: 66/100 |         70/100 | Elliott: Wave 1          Elliott: Wave 2                                                                                                                  Confluence: 62/100 |
+Bullish | Confluence:              Elliott: Wave 2                                                                                                                                                                  Elliott: Wave 3
+68/100 | Elliott: Wave B
+
+
+BUMI  64  Rp135   PADI  62   Rp77   CDIA  62  Rp600   COCO  60 Rp172   RATU  58 Rp5,550
+
+Entry Range Rp115-135      Entry Range  Rp65-77      Entry Range Rp510-600      Entry Range Rp145-172      Entry     Rp4800-
+Target         Rp160      Target          Rp95      Target         Rp720      Target         Rp210    Range    5550
+Stop Loss      Rp115     Stop Loss       Rp65     Stop Loss      Rp510     Stop Loss      Rp145      Target       Rp6,500
+R:R Ratio      1.2:1     R:R Ratio      1.5:1     R:R Ratio      1.3:1     R:R Ratio      1.4:1     Stop Loss    Rp4,800
+                                                                                                R:R Ratio      1.3:1
+ Top volume + Foreign buy        Top gainer +28.33%             Top gainer +7.14% +            Top gainer +34.38%
+ Rp11.5B                   momentum                       Foreign buy Rp701M          momentum                    Top gainer +20.13% +
+                                                                                                                                     Foreign buy Rp13.2B
+ MINING                  PLANTATION             FINANCE              CONSUMER
+
+                                                                                                   MINING MODERATE  3%        MODERATE  3%        MODERATE  3%        MODERATE  3%
+                                                                                     MODERATE  3% 5-7D                       3-5D                       5-7D  BREAKOUT          3-5D
+
+                                                                                                              3-5D   BULL FLAG VOLUME CLIMAX        MOMENTUM SPIKE         Divergence: Bullish |        MOMENTUM SPIKE
+                                                         Confluence: 60/100 |                                      Divergence: HiddenDivergence: None |           Divergence: None |                                       Divergence: None |
+                                                                                 Elliott: Wave 1                                                  Bullish | Confluence:Confluence: 60/100 |         Confluence: 58/100 |                                      Confluence: 56/100 |
+                                                                                                            62/100 | Elliott: Wave 3Elliott: Wave 3                      Elliott: Wave 3                                                              Elliott: Wave 3
+
+
+
+
+
+                                               StockBot AI Research | CONFIDENTIAL | Halaman 8
+
+===== PAGE 9 =====
+
+                                         One Day Trade - 10 Saham
+
+
+One Day Trade - 10 Saham
+
+
+
+  DNA Day Trade: Momentum capture intraday. Entry 09:00-09:30, exit 15:50 WIB. Zero overnight risk. Target
+  5-10%, SL 2-3% (ATR-based).
+
+
+
+  TRADING RULES (WAJIB)
+
+
+   Entry: 09:00-09:30    Exit: 15:50 WIB - NO Max Pos: 3 simultan,  Target: 5-10% per    SL: 2-3% (ATR-     Gap Rule: Gap >5%
+  WIB (opsional 13:00- OVERNIGHT      5% per trade, 15%    trade                based)            = tunggu pullback
+   13:30)                                               total                                        VWAP
+
+
+
+
+  DAY TRADE SELECTION
+
+
+
+    #   SYMBOL    PRICE  ENTRY ZONE     TARGET      SL  VOL SPIKE  MOM   CATALYST           MAX
+
+   1   CUAN        620  590-620            680     590              85      Stock split + LQ45       5%
+
+   2   RAJA      3,970  3,800-3,970      4,350   3,700              82      Rights + momentum      5%
+
+   3   BRPT      1,380  1,350-1,380      1,500   1,300              78      Energy rally + F acc      5%
+
+   4   DSSA        820  790-820            900     750              72      Rights issue clarity      5%
+
+   5   BREN      3,360  3,280-3,360      3,650   3,150              75     B50 biodiesel catalyst     5%
+
+   6   MBMA        510  490-510            570     470              70       Battery + LQ45 constit.    3%
+
+   7   BEEF        160  152-160            180     145              75     Momentum continuation    3%
+
+   8   BUMI        135  128-135            150     122              70     Volume leader + coal     3%
+
+   9   MDKA      2,540  2,480-2,540      2,700   2,400              68      Dividen play (Cum 1 Jul)   5%
+
+   10  PADI         77  73-77               88      70              72    CPO momentum       3%
+
+
+
+Scalping / Gorengan - 10 Saham
+
+
+
+  EXTREME RISK - SCALPING/GORENGAN
+  Max 2% per posisi | Total max 5% exposure | Hard SL -5% otomatis cut | Trailing SL: +5% profit = SL ke
+  breakeven | NO CHASING: Naik >10% + jam >10:00 = JANGAN entry | Never Hold >2 jam
+
+
+ COCO                 ARA 34%    PADI                 ARA 28%    BEEF                 ARA 26%
+
+  Price                        Rp172       Price                         Rp77       Price                        Rp160
+  Entry                   Open 09:00       Entry                   Open 09:00       Entry                   Open 09:00
+
+  T1  RP195  T2  RP210  SL  RP163       T1   RP88   T2   RP95   SL   RP73       T1  RP175  T2  RP190  SL  RP152
+
+   Consumer momentum + viral                           Plantation surge                              Consumer momentum
+
+   EXTREME  2%   30M                   EXTREME  2%   30M                   EXTREME  2%   30M
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 9
+
+===== PAGE 10 =====
+
+                                                 Scalping / Gorengan - 10 Saham
+
+
+RATU                 ARA 20%    BBRM                 ARA 29%    CSMI                 ARA 24%
+
+Price                      Rp5,550       Price                        Rp130       Price                         Rp73
+
+Entry                   Open 09:00       Entry               Momentum carry       Entry                 Volume spike
+
+T1  RP6,000  T2  RP6,500  SL  RP5,272       T1  RP148  T2  RP160  SL  RP123       T1   RP83   T2   RP90   SL   RP69
+
+ Mining + F Buy                                    Gainer continuation                              Energy momentum
+
+ EXTREME  2%   1H                    EXTREME  2%   30M                   EXTREME  2%   30M
+
+
+KOKA                 ARA 14%    KIOS                 ARA 13%    CDIA                  ARA 7%
+
+Price                         Rp99       Price                         Rp87       Price                        Rp600
+Entry                Breakout play       Entry               Momentum entry       Entry                   Open 09:00
+
+T1   RP112   T2   RP120   SL   RP94       T1   RP98   T2   RP105   SL   RP83       T1  RP660  T2  RP720  SL  RP570
+
+ Trading play                                      Gainer carry                                      Finance + F Buy
+
+ EXTREME  2%   30M                   EXTREME  2%   30M                     HIGH  2%   1H
+
+
+SGRO                                                                                      ARA 8%
+
+Price                                                                                                   Rp2,720
+Entry                                                                                          Plantation rally
+
+T1                    RP2,950                 T2                    RP3,200                 SL                    RP2,584
+
+ CPO + sector rotation
+
+ HIGH  2%   1H
+
+
+
+ Gorengan Auto-Reject Signals: UMA aktif dari BEI | Float locked (tidak ada seller) | Promoter/insider selling
+ detected | No news, no catalyst, pure price spike | Sudah 3 hari berturut-turut ARA
+
+
+
+
+
+                                              StockBot AI Research | CONFIDENTIAL | Halaman 10
+
+===== PAGE 11 =====
+
+                                                   Hidden Gem Discovery
+
+
+Hidden Gem Discovery
+
+
+
+
+  SWING HIDDEN GEMS           DAY TRADE HIDDEN GEMS       SCALPING HIDDEN GEMS
+
+
+   ELSA                         FILM                         FORU
+
+     Elnusa Tbk | Rp520 → Rp605            MD Pictures | Rp1,592                          Fortune Indonesia | Rp2,897
+      Rights issue + energy services                   Foreign buy Rp8.9B + entertainment            Volume spike T-1, belum radar retail
+     demand. Buy zone 486-510                       sector recovery                            THEMATIC EARLY
+
+      PRE-CATALYST                         UNDISCOVERED MOM.
+
+                                                             YELO
+   AADI                         NCKL                                       Yelooo Indonesia | Rp70
+     Adaro Andalan | Rp7,875 → Rp8,850            Trimegah Bangun Persada | Rp816                  Digital advertising + low float =
+      Rights issue pricing + coal exposure.               Nickel pure-play + LQ45 exit =                       potential explosion
+     Buy zone 7,300-7,675                            oversold opportunity                        NARRATIVE IGNITION
+     CONTRARIAN RECOVERY                  PRE-MARKET CATALYST
+
+
+   HRTA
+
+      Hartadinata Abadi | Rp1,665 →
+     Rp2,000
+    LQ45 newcomer + gold mining.
+     Undiscovered momentum
+
+     SECTOR LAGGARD
+
+
+
+Cross-Reference Analysis
+
+
+
+
+  SIGNAL ALIGNMENT MATRIX
+
+
+
+   SAHAM     TECHNICAL      FUNDAMENTAL        CATALYST     FLOW    MACRO     ALIGNMENT
+
+    CUAN        ● BUY             ● BUY                 ● BUY           ● BUY     ● BUY       100%
+
+    RAJA        ● BUY             ● NEU                 ● BUY           ● BUY     ● BUY       80%
+
+    DSSA        ● BUY             ● NEU                 ● BUY           ● BUY     ● BUY       80%
+
+    BRPT        ● BUY             ● NEU                 ● BUY           ● BUY     ● BUY       80%
+
+    MDKA        ● BUY             ● BUY                 ● BUY           ● NEU     ● BUY       80%
+
+    BBCA        ● BUY             ● BUY                 ● NEU           ● BUY     ● NEU       80%
+
+    BREN        ● BUY             ● BUY                 ● BUY           ● NEU     ● BUY       80%
+
+    ADRO        ● BUY             ● BUY                 ● NEU           ● NEU     ● BUY       60%
+
+    INCO        ● BUY             ● NEU                 ● NEU           ● BUY     ● BUY       60%
+
+    AMMN        ● BUY             ● NEU                 ● NEU           ● BUY     ● BUY       60%
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 11
+
+===== PAGE 12 =====
+
+                                                  Kalender Ekonomi & Sentimen
+
+
+
+
+  SMART MONEY FLOW SUMMARY                MACRO-STOCK ALIGNMENT
+
+
+   Foreign flow 5 hari terakhir masih net sell (-Rp3T+) namun                BI RATE 5.75% → BANKING → BBCA, BMRI (NIM
+   volume penjualan menurun secara signifikan dari -Rp800B (T-5)        expansion)
+   ke -Rp578B (T-1). Pol ini menunjukkan distributing yang              B50 BIODIESEL → ENERGY → BREN, RAJA (mandate)
+  melemah - tanda awal akumulasi. Institusi domestik aktif             COAL $129/T →  MINING → ADRO, AADI, MBMA (export)
+   menyerap lelangan dengan net buy Rp5T+.
+                                                         STOCK SPLIT →  MINING → CUAN (LQ45 inclusion)
+
+
+Kalender Ekonomi & Sentimen
+
+
+
+
+  ECONOMIC CALENDAR (T-7 S/D T+14)
+
+
+
+   DATE     EVENT                                  TYPE            EXPECTED       IMPACT
+
+    24 Jun    MSCI EM Status Review                        GLOBAL             Maintained           POSITIVE
+
+    1 Jul      PMI Manufaktur Juni                             DOMESTIC            50.0              NEUTRAL
+
+    1 Jul     CUAN Cum Dividen/Split                       CORPORATE              -                  HIGH
+
+    2 Jul        Inflasi IHK Juni                                DOMESTIC           3.08-3.20%          HIGH
+
+    2 Jul     MDKA Ex Dividen                             CORPORATE              -                 MEDIUM
+
+    7 Jul      Cadangan Devisa Juni                            DOMESTIC           $144.9B           MEDIUM
+
+    15 Jul      BI Rate Meeting                                DOMESTIC        HOLD 5.75%        HIGH
+
+    16 Jul    CUAN Distribusi Stock Split 1:5                  CORPORATE              -                  HIGH
+
+    24 Jul    MDKA Pembayaran Dividen Rp300B              CORPORATE              -                    POSITIVE
+
+
+
+
+
+  SENTIMEN 360 DERAJAT                        BULL CASE
+
+
+    Foreign Flow (5h)  Net Sell Rp3T+        STRONG   ▼     ▲ MSCI EM status maintained (relief rally)
+                                    ▲ Rupiah strengthening to Rp17,738
+    Domestic Inst.     Net Buy Rp5T+        STRONG   ▲
+                                    ▲ Energy/Mining sector tailwind (B50, coal)
+
+     Retail/Freq        1.56M Active          MODERATE  ▬
+
+    Analyst Cons.     Mixed               MODERATE  ▼
+                                          BEAR CASE
+     Social Media       Cautiously Optimistic    MODERATE  ▲
+
+    Commodity         Stable-Rising          MODERATE  ▬     ▼ BI Rate 5.75% crushing rate-sensitive sectors
+                                    ▼ Foreign net sell YTD Rp61.36T
+    Global Risk        Risk-On              MODERATE  ▲
+                                    ▼ MSCI downgrade overhang (Nov 2026)
+
+    Rupiah           Rp17,738 Appreciating   MODERATE  ▲
+
+               5.5/10
+
+                       NEUTRAL
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 12
+
+===== PAGE 13 =====
+
+                                                Appendix - Metodologi & Data
+
+
+Appendix - Metodologi & Data
+
+
+
+
+  METODOLOGI: THE FIVE LENSES                SCORING WEIGHTS
+
+
+   Lens 1 - Smart Money Forensics: Analisis net foreign buy/sell                                                KOMPONEN           SWING    DAY   SCALP
+    (T-1, T-5, T-20), institutional accumulation/distribution, block
+                                                                          Technical Setup         20%      25%   30%   trade activity >Rp100B, frequency spike, dan ownership
+   concentration.                                                  Fundamental Quality      20%      10%   5%
+
+                                                                            Catalyst Strength        20%      20%   20%
+   Lens 2 - Institutional Footprint: Analyst coverage, rating
+
+   consensus, target price vs current price, recent                       Smart Money Flow       15%      20%   15%
+
+   upgrades/downgrades (30 hari), major fund holdings changes.
+                                                                        Sector Tailwind          15%      15%   10%
+
+                                                                      Risk-Reward/Liq         10%      10%   10%   Lens 3 - Catalyst Engine: Retrospective (30 hari) dan
+
+   Prospective (14 hari) katalis analysis dengan scoring:
+
+   Magnitude x Probability = IMPACT.
+
+
+   Lens 4 - Fundamental Check: Revenue growth, profitability
+
+   trend (3 tahun), ROE/ROIC, D/E ratio, valuation metrics (P/E,
+
+   P/B, EV/EBITDA), FCF, dividend.
+
+
+   Lens 5 - Macro & Sector Alignment: Beta vs IHSG, sector
+
+    rotation position, global proxy correlation, commodity link,
+
+   currency sensitivity, policy tailwind/headwind.
+
+
+
+
+  DATA COMPLETENESS REPORT
+
+
+
+   PORTFOLIO             TOTAL FIELD WAJIB                 TERISI        N/D     COMPLETENESS
+
+    Swing Trade 20            280                               275          5       98.2%
+
+   Day Trade 10              100                               98           2       98.0%
+
+    Scalping 10               120                                118           2       98.3%
+
+    Total                     500                               491          9       98.2%
+
+
+    Field N/D: Technical data 2 saham (NCKL, YELO) tidak tersedia lengkap. Estimasi manual diberi tag (est.)
+
+
+
+
+  GLOSARIUM
+
+
+  MA = Moving Average | RSI = Relative Strength Index | MACD = Moving Average Convergence Divergence
+
+  NFB = Net Foreign Buy | ATR = Average True Range | VWAP = Volume Weighted Average Price
+
+   Fib = Fibonacci Retracement/Extension | SL = Stop Loss | TP = Target Price
+
+  ARA = Auto Rejection Atas | ARB = Auto Rejection Bawah | N/D = Data Tidak Diketahui
+
+
+
+
+
+                                                 StockBot AI Research | CONFIDENTIAL | Halaman 13
+
+===== PAGE 14 =====
+
+                                              Appendix - Metodologi & Data
+
+
+Confluence = Multiple signals alignment | HMETD = Hak Memesan
+
+Efek Terlebih Dahulu
+                                      SUMBER DATA
+
+
+                                                                Market Data: Bursa Efek Indonesia (BEI), IDX
+
+                                                                       Technical: TradingView, Yahoo Finance
+
+                                                               Macro: Bank Indonesia, BPS, Trading Economics
+
+                                                           News: Web search aggregation (Detik, Kontan, CNBC Indonesia,
+
+                                                                              Bisnis Indonesia)
+
+                                                                  Generated: 01 Juli 2026 | Version: 2.1 Light Modern
+
+                                                                       Ref: SBT-20260701-A7K3M9
+
+
+
+
+LEGAL DISCLAIMER: Analisis ini disusun berdasarkan data yang tersedia per 1 Juli 2026 dan bersifat
+informatif serta edukatif. Ini BUKAN merupakan rekomendasi pembelian atau penjualan saham. Setiap
+keputusan investasi sepenuhnya merupakan tanggung jawab investor. Pasar saham memiliki risiko kerugian
+yang signifikan. Historical performance tidak menjamin future returns. Leverage dan margin trading dapat
+memperbesar kerugian. Selalu lakukan due diligence independen sebelum berinvestasi. StockBot AI Research
+Division tidak bertanggung jawab atas kerugian yang timbul dari penggunaan data ini.
+
+
+
+
+
+                                              StockBot AI Research Division
+                                            Data-Driven Insights for Indonesian Equity Markets
+                                          Generated: 01 Juli 2026 | Version 2.1 Light Modern
+                                   CONFIDENTIAL - INTERNAL RESEARCH ONLY
+
+
+
+
+
+                                              StockBot AI Research | CONFIDENTIAL | Halaman 14

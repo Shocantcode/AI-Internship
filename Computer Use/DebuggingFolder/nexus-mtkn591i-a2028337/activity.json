@@ -1,0 +1,79 @@
+[
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "understanding",
+    "action": "understanding",
+    "status": "running",
+    "label": "Understanding the question",
+    "timestamp": "2026-09-02T22:01:37.557027+00:00",
+    "tool": null
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "understanding",
+    "action": "understanding",
+    "status": "completed",
+    "label": "Understanding the question",
+    "timestamp": "2026-09-02T22:01:39.528886+00:00",
+    "tool": null,
+    "duration_ms": 1945
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "web_research",
+    "action": "web_research",
+    "status": "running",
+    "label": "Searching current information",
+    "timestamp": "2026-09-02T22:01:39.540226+00:00",
+    "tool": "collect_detik_finance_news",
+    "metadata": {
+      "tool": "collect_detik_finance_news"
+    }
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "web_research",
+    "action": "web_research",
+    "status": "failed",
+    "label": "Searching current information",
+    "timestamp": "2026-09-02T22:02:12.455185+00:00",
+    "tool": null,
+    "duration_ms": 32905
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "search_rag",
+    "action": "search_rag",
+    "status": "running",
+    "label": "Searching documents",
+    "timestamp": "2026-09-02T22:02:12.459772+00:00",
+    "tool": null
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "search_rag",
+    "action": "search_rag",
+    "status": "completed",
+    "label": "Searching documents",
+    "timestamp": "2026-09-02T22:02:13.102717+00:00",
+    "tool": null,
+    "result_count": 5
+  },
+  {
+    "type": "activity",
+    "request_id": "nexus-mtkn591i-a2028337",
+    "stage": "prepare_answer",
+    "action": "prepare_answer",
+    "status": "completed",
+    "label": "Preparing answer",
+    "timestamp": "2026-09-02T22:02:22.255384+00:00",
+    "tool": null,
+    "duration_ms": 0
+  }
+]

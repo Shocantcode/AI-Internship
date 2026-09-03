@@ -1,0 +1,50 @@
+{
+  "research_session_id": "research_20260902_220309_2232bc",
+  "articles": [
+    {
+      "evidence_id": "evidence_001",
+      "title": "Simak Rekomendasi Saham saat IHSG Menguat",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8637612/simak-rekomendasi-saham-saat-ihsg-menguat",
+      "published_at": null,
+      "content_file": "article_001.txt",
+      "content_length": 4922
+    },
+    {
+      "evidence_id": "evidence_002",
+      "title": "IHSG Melemah, Cek Rekomendasi Saham Hari Ini",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8636020/ihsg-melemah-cek-rekomendasi-saham-hari-ini",
+      "published_at": null,
+      "content_file": "article_002.txt",
+      "content_length": 4755
+    },
+    {
+      "evidence_id": "evidence_003",
+      "title": "IHSG Melemah Tipis, Cek Rekomendasi Saham Hari Ini",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8641292/ihsg-melemah-tipis-cek-rekomendasi-saham-hari-ini",
+      "published_at": null,
+      "content_file": "article_003.txt",
+      "content_length": 5101
+    },
+    {
+      "evidence_id": "evidence_004",
+      "title": "IHSG Anjlok 8 Persen, BEI Hentikan Sementara Perdagangan Saham",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/foto-bisnis/d-8329562/ihsg-anjlok-8-persen-bei-hentikan-sementara-perdagangan-saham",
+      "published_at": null,
+      "content_file": "article_004.txt",
+      "content_length": 1648
+    },
+    {
+      "evidence_id": "evidence_005",
+      "title": "ASII Mau Tambah Saham AUTO, Sementara PEHA Raup Laba Rp 14,97 Miliar",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8642873/asii-mau-tambah-saham-auto-sementara-peha-raup-laba-rp-14-97-miliar",
+      "published_at": null,
+      "content_file": "article_005.txt",
+      "content_length": 4390
+    }
+  ]
+}

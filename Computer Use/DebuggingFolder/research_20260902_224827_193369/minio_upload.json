@@ -1,0 +1,97 @@
+{
+  "stored": 5,
+  "skipped": 0,
+  "failed": 0,
+  "verified": 5,
+  "objects": [
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8646139.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8646139/produksi-batu-bara-myoh-tembus-target-apex-siapkan-aksi-konversi-utang",
+      "etag": "3714a94579493a92b0a47c94f7f45717",
+      "content_length": 5648
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8584352.json",
+      "url": "https://finance.detik.com/foto-bisnis/d-8584352/devisa-ekspor-batu-bara-tembus-rp268-triliun-pada-semester-i-2026",
+      "etag": "125597bad2496d4fa1a19850132d2fdb",
+      "content_length": 920
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8644985.json",
+      "url": "https://finance.detik.com/energi/d-8644985/batu-bara-kalori-tinggi-makin-mahal-hba-september-jadi-us-126-87-ton",
+      "etag": "cc2592bc95e30d454f903cb197abdf60",
+      "content_length": 3308
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8611575.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8611575/rekomendasi-saham-hari-ini-saat-ihsg-menguat",
+      "etag": "7ce1141e4adc9b176bbff7f9b7ac48f5",
+      "content_length": 5733
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8614668.json",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8614668/ihsg-tergelincir-ke-zona-merah-simak-rekomendasi-saham-hari-ini",
+      "etag": "1b7fd3eafc67e0bd825429ce5b1d4f8b",
+      "content_length": 5902
+    }
+  ],
+  "errors": [],
+  "bucket": "news",
+  "artifact": {
+    "artifact": "articles.json",
+    "type": "news_intelligence",
+    "topic": "Batu Bara",
+    "query": "batu bara",
+    "job_id": "research_20260902_224827_193369",
+    "source": "Computer Use",
+    "storage": "minio",
+    "bucket": "news",
+    "object_key": "intelligence/batu_bara/research_20260902_224827_193369/metadata.json",
+    "article_count": 5,
+    "status": "completed",
+    "created_at": "2026-09-02T22:49:54.968433+00:00",
+    "objects": [
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8646139.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8646139/produksi-batu-bara-myoh-tembus-target-apex-siapkan-aksi-konversi-utang",
+        "etag": "3714a94579493a92b0a47c94f7f45717",
+        "content_length": 5648
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8584352.json",
+        "url": "https://finance.detik.com/foto-bisnis/d-8584352/devisa-ekspor-batu-bara-tembus-rp268-triliun-pada-semester-i-2026",
+        "etag": "125597bad2496d4fa1a19850132d2fdb",
+        "content_length": 920
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8644985.json",
+        "url": "https://finance.detik.com/energi/d-8644985/batu-bara-kalori-tinggi-makin-mahal-hba-september-jadi-us-126-87-ton",
+        "etag": "cc2592bc95e30d454f903cb197abdf60",
+        "content_length": 3308
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8611575.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8611575/rekomendasi-saham-hari-ini-saat-ihsg-menguat",
+        "etag": "7ce1141e4adc9b176bbff7f9b7ac48f5",
+        "content_length": 5733
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8614668.json",
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8614668/ihsg-tergelincir-ke-zona-merah-simak-rekomendasi-saham-hari-ini",
+        "etag": "1b7fd3eafc67e0bd825429ce5b1d4f8b",
+        "content_length": 5902
+      }
+    ]
+  },
+  "status": "verified"
+}

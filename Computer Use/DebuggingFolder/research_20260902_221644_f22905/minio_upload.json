@@ -1,0 +1,97 @@
+{
+  "stored": 5,
+  "skipped": 0,
+  "failed": 0,
+  "verified": 5,
+  "objects": [
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8646130.json",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8646130/harga-emas-antam-naik-jadi-segini",
+      "etag": "b694b16157ded51c49509e55be382c7c",
+      "content_length": 2493
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8385612.json",
+      "url": "https://finance.detik.com/foto-bisnis/d-8385612/antam-amankan-pasokan-emas-domestik",
+      "etag": "352d2ad40b3d636acee59727010b2921",
+      "content_length": 860
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8331101.json",
+      "url": "https://finance.detik.com/foto-bisnis/d-8331101/harga-emas-dunia-cetak-rekor-baru-di-pasar-global",
+      "etag": "0f342c936f0c4b19dcd8e8db91b1c30c",
+      "content_length": 898
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8642604.json",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8642604/harga-patokan-ekspor-emas-naik",
+      "etag": "48cd4952f21af2a328cd1b853ad044ec",
+      "content_length": 3451
+    },
+    {
+      "bucket": "news",
+      "object_key": "detik_finance/d-8626963.json",
+      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8626963/ibma-resmi-dibentuk-jadi-wadah-ekosistem-emas-indonesia",
+      "etag": "498c0b622293e5db924645d54822082a",
+      "content_length": 5327
+    }
+  ],
+  "errors": [],
+  "bucket": "news",
+  "artifact": {
+    "artifact": "articles.json",
+    "type": "news_intelligence",
+    "topic": "Emas",
+    "query": "emas",
+    "job_id": "research_20260902_221644_f22905",
+    "source": "Computer Use",
+    "storage": "minio",
+    "bucket": "news",
+    "object_key": "intelligence/emas/research_20260902_221644_f22905/metadata.json",
+    "article_count": 5,
+    "status": "completed",
+    "created_at": "2026-09-02T22:18:06.757015+00:00",
+    "objects": [
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8646130.json",
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8646130/harga-emas-antam-naik-jadi-segini",
+        "etag": "b694b16157ded51c49509e55be382c7c",
+        "content_length": 2493
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8385612.json",
+        "url": "https://finance.detik.com/foto-bisnis/d-8385612/antam-amankan-pasokan-emas-domestik",
+        "etag": "352d2ad40b3d636acee59727010b2921",
+        "content_length": 860
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8331101.json",
+        "url": "https://finance.detik.com/foto-bisnis/d-8331101/harga-emas-dunia-cetak-rekor-baru-di-pasar-global",
+        "etag": "0f342c936f0c4b19dcd8e8db91b1c30c",
+        "content_length": 898
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8642604.json",
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8642604/harga-patokan-ekspor-emas-naik",
+        "etag": "48cd4952f21af2a328cd1b853ad044ec",
+        "content_length": 3451
+      },
+      {
+        "bucket": "news",
+        "object_key": "detik_finance/d-8626963.json",
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8626963/ibma-resmi-dibentuk-jadi-wadah-ekosistem-emas-indonesia",
+        "etag": "498c0b622293e5db924645d54822082a",
+        "content_length": 5327
+      }
+    ]
+  },
+  "status": "verified"
+}

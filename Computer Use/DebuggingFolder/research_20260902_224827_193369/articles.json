@@ -1,0 +1,50 @@
+{
+  "research_session_id": "research_20260902_224827_193369",
+  "articles": [
+    {
+      "evidence_id": "evidence_001",
+      "title": "Produksi Batu Bara MYOH Tembus Target, APEX Siapkan Aksi Konversi Utang",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8646139/produksi-batu-bara-myoh-tembus-target-apex-siapkan-aksi-konversi-utang",
+      "published_at": null,
+      "content_file": "article_001.txt",
+      "content_length": 4851
+    },
+    {
+      "evidence_id": "evidence_002",
+      "title": "Devisa Ekspor Batu Bara Tembus Rp268 Triliun pada Semester I 2026",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/foto-bisnis/d-8584352/devisa-ekspor-batu-bara-tembus-rp268-triliun-pada-semester-i-2026",
+      "published_at": null,
+      "content_file": "article_002.txt",
+      "content_length": 187
+    },
+    {
+      "evidence_id": "evidence_003",
+      "title": "Batu Bara Kalori Tinggi Makin Mahal, HBA September Jadi US$ 126,87/Ton",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/energi/d-8644985/batu-bara-kalori-tinggi-makin-mahal-hba-september-jadi-us-126-87-ton",
+      "published_at": null,
+      "content_file": "article_003.txt",
+      "content_length": 2550
+    },
+    {
+      "evidence_id": "evidence_004",
+      "title": "Rekomendasi Saham Hari Ini saat IHSG Menguat",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8611575/rekomendasi-saham-hari-ini-saat-ihsg-menguat",
+      "published_at": null,
+      "content_file": "article_004.txt",
+      "content_length": 4991
+    },
+    {
+      "evidence_id": "evidence_005",
+      "title": "IHSG Tergelincir ke Zona Merah, Simak Rekomendasi Saham Hari Ini",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/bursa-dan-valas/d-8614668/ihsg-tergelincir-ke-zona-merah-simak-rekomendasi-saham-hari-ini",
+      "published_at": null,
+      "content_file": "article_005.txt",
+      "content_length": 5117
+    }
+  ]
+}

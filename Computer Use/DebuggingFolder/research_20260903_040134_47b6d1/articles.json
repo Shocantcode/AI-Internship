@@ -1,0 +1,50 @@
+{
+  "research_session_id": "research_20260903_040134_47b6d1",
+  "articles": [
+    {
+      "evidence_id": "evidence_001",
+      "title": "Harga Bitcoin Terbang 22% Dalam Sepekan",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/fintech/d-8629612/harga-bitcoin-terbang-22-dalam-sepekan",
+      "published_at": null,
+      "content_file": "article_001.txt",
+      "content_length": 2306
+    },
+    {
+      "evidence_id": "evidence_002",
+      "title": "Bitcoin Terbang ke Level US$ 80.000, Ini Penyebabnya",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/fintech/d-8637573/bitcoin-terbang-ke-level-us-80-000-ini-penyebabnya",
+      "published_at": null,
+      "content_file": "article_002.txt",
+      "content_length": 3607
+    },
+    {
+      "evidence_id": "evidence_003",
+      "title": "Inflasi AS Turun, Harga Bitcoin Langsung Bereaksi",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/fintech/d-8579058/inflasi-as-turun-harga-bitcoin-langsung-bereaksi",
+      "published_at": null,
+      "content_file": "article_003.txt",
+      "content_length": 2266
+    },
+    {
+      "evidence_id": "evidence_004",
+      "title": "Kripto Berdarah-darah, Harga Bitcoin Anjlok 15% dalam Sepekan",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/fintech/d-8519339/kripto-berdarah-darah-harga-bitcoin-anjlok-15-dalam-sepekan",
+      "published_at": null,
+      "content_file": "article_004.txt",
+      "content_length": 1460
+    },
+    {
+      "evidence_id": "evidence_005",
+      "title": "Harga Bitcoin Melonjak Usai AS-Iran Damai",
+      "publisher": "Detik Finance",
+      "url": "https://finance.detik.com/fintech/d-8534586/harga-bitcoin-melonjak-usai-as-iran-damai",
+      "published_at": null,
+      "content_file": "article_005.txt",
+      "content_length": 1515
+    }
+  ]
+}

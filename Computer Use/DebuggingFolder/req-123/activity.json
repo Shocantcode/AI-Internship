@@ -1,0 +1,82 @@
+[
+  {
+    "type": "activity",
+    "request_id": "req-123",
+    "execution_id": "req-123",
+    "id": "understanding",
+    "activity_id": "understanding",
+    "event_id": null,
+    "stage": "understanding",
+    "action": "understanding",
+    "status": "completed",
+    "label": "Understanding the question",
+    "timestamp": "2026-09-03T07:35:21.427244+07:00",
+    "started_at": "2026-09-03T07:35:21.401604+07:00",
+    "completed_at": "2026-09-03T07:35:21.427244+07:00",
+    "tool": null,
+    "duration_ms": 14
+  },
+  {
+    "type": "activity",
+    "request_id": "req-123",
+    "execution_id": "req-123",
+    "id": "search_rag",
+    "activity_id": "search_rag",
+    "event_id": null,
+    "stage": "search_rag",
+    "action": "search_rag",
+    "status": "failed",
+    "label": "Searching documents",
+    "timestamp": "2026-09-03T07:35:21.428251+07:00",
+    "started_at": "2026-09-03T07:35:21.427244+07:00",
+    "completed_at": "2026-09-03T07:35:21.428251+07:00",
+    "tool": "search_rag",
+    "metadata": {
+      "tool": "search_rag",
+      "query": "silver",
+      "error": {
+        "code": "AttributeError",
+        "message": "'types.SimpleNamespace' object has no attribute 'log'"
+      }
+    },
+    "error": {
+      "code": "AttributeError",
+      "message": "'types.SimpleNamespace' object has no attribute 'log'",
+      "stage": "search_rag",
+      "retryable": false
+    }
+  },
+  {
+    "type": "activity",
+    "request_id": "req-123",
+    "execution_id": "req-123",
+    "id": "search_rag#2",
+    "activity_id": "search_rag#2",
+    "event_id": null,
+    "stage": "search_rag",
+    "action": "search_rag",
+    "status": "running",
+    "label": "Searching documents",
+    "timestamp": "2026-09-03T07:35:21.428251+07:00",
+    "started_at": "2026-09-03T07:35:21.428251+07:00",
+    "completed_at": null,
+    "tool": null
+  },
+  {
+    "type": "activity",
+    "request_id": "req-123",
+    "execution_id": "req-123",
+    "id": "prepare_answer",
+    "activity_id": "prepare_answer",
+    "event_id": null,
+    "stage": "prepare_answer",
+    "action": "prepare_answer",
+    "status": "completed",
+    "label": "Preparing answer",
+    "timestamp": "2026-09-03T07:35:21.429256+07:00",
+    "started_at": "2026-09-03T07:35:21.429256+07:00",
+    "completed_at": "2026-09-03T07:35:21.429256+07:00",
+    "tool": null,
+    "duration_ms": 0
+  }
+]

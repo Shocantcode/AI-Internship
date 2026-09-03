@@ -1,0 +1,9 @@
+{
+  "research_session_id": "research_20260903_173629_ae584e",
+  "request_id": "exec_20260903_fec12523",
+  "query": "emas",
+  "created_at": "2026-09-03T17:36:29.065306+00:00",
+  "intent": "general_question",
+  "requires_external_research": false,
+  "requires_forecast": false
+}

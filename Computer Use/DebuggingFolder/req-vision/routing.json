@@ -1,0 +1,12 @@
+{
+  "route": "vision",
+  "reason": "image attachment present",
+  "image_count": 1,
+  "images": [
+    {
+      "filename": "sample.png",
+      "type": "image/png",
+      "content_base64": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAA"
+    }
+  ]
+}

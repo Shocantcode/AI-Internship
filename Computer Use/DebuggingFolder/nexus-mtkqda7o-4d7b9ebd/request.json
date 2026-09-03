@@ -1,0 +1,5 @@
+{
+  "request_id": "nexus-mtkqda7o-4d7b9ebd",
+  "question": "User: Harga BatuBara\nNexus AI: Nexus request failed at unknown stage: ServerError - 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}\nUser: Harga BatuBara\nNexus AI: Berdasarkan data yang tersedia, informasi mengenai harga batu bara (Newcastle) adalah sebagai berikut:\n\n* **Harga:** $129.65\n* **Status/Tren:** Stabil (▲ Stable)\n* **Dampak Sektoral:** Positif (Positive)\nUser: Show sources\n\nApplication context: Copilot",
+  "started_at": "2026-09-02T23:31:51.172545+00:00"
+}
